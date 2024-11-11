@@ -25,3 +25,13 @@
 - Are implants safe?
 
 - What if I've been implanted against my will?
+
+- Why are transdermal implants suboptimal?
+
+- Why Open Source vs LLC vs Corporate?
+
+- How is this different than Bryna Johnson or Andrew Huberman?
+
+- How is this different than DIY-Bio, Citizen Science, etc.?
+
+- Are there payment implants?
