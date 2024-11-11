@@ -32,6 +32,6 @@
 
 - How is this different than Bryna Johnson or Andrew Huberman?
 
-- How is this different than DIY-Bio, Citizen Science, etc.?
+- How is this different than DIY-Bio, Citizen Science, Nootropics, Transhumanism, etc.?
 
 - Are there payment implants?
