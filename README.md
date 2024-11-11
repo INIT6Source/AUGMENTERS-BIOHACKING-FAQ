@@ -22,6 +22,8 @@
 
 - Will implants cause issues with TSA?
 
+- Can I be GPS tracked?
+
 - Are implants safe?
 
 - What if I've been implanted against my will?
