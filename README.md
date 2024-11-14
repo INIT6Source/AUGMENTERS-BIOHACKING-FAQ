@@ -32,7 +32,7 @@
 
 - Why Open Source vs LLC vs Corporate?
 
-- How is this different than Bryna Johnson or Andrew Huberman?
+- How is this different than Bryan Johnson or Andrew Huberman?
 
 - How is this different than DIY-Bio, Citizen Science, Nootropics, Transhumanism, etc.?
 
