@@ -37,3 +37,16 @@
 - How is this different than DIY-Bio, Citizen Science, Nootropics, Transhumanism, etc.?
 
 - Are there payment implants?
+
+- What are the risks from a medical perspective?
+
+  - Early animal studies suggested an increased risk of cancerous tumors developing near implants but the detail most often left out is that cancer was being induced and accelerated in these studies. There's very little real medical risk. 
+
+- Are there any cases of infection or an allergic reaction?
+
+  - Infection, allergic reaction, or rejection are rare and typically the result of poor aftercare or subpar DIY coatings. I don’t recall any recent cases with the x-series bioglass microchip implants, which are among the most common.
+
+- What about medical imaging?
+
+  - Medical imaging is a non-issue, except for implanted magnets. Dangerous Things provides an MRI compatibility guide for glass microchips, and there have been a handful of individuals who underwent MRIs with magnets, although this isn't the recommended.
+  - https://forum.dangerousthings.com/uploads/default/original/1X/289af3580c98807bdd9de089a27d73f383ce7bce.pdf
