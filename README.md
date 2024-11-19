@@ -94,23 +94,15 @@
 
 <details><summary>
 
-### 6. What are the types of implants?
+### 6. What type of implants are there?
 
 </summary>
 
-- Implants come in a wide variety of forms and functions:
+- Implants come in a wide variety of forms, including:
 
 - [Microchips](https://dangerousthings.com/product/next/)
 - [Flexible](https://dangerousthings.com/product/apex-flex/)
 - [Magnets](https://dangerousthings.com/product/xg3/)
-- Visual
-- Auditory
-- Tactile
-- NFC/RFID Identification
-- Payment
-- Illumination
-- Data Storage
-- Miscellanious: Transcranial Direct Current Stimulation (tDCS), Brain-Computer Interfaces (BCIs), [Grindhouse Wetware](https://grindhousewetware/), etc
 
 </details>
 
@@ -120,7 +112,7 @@
 
 </summary>
 
-[Answer]
+ - Transdermal implants, which reside both above and beneath the skin, are generally considered suboptimal due to their increased risk of infection and rejection.
 
 </details>
 
@@ -130,7 +122,16 @@
 
 </summary>
 
-[Answer]
+- Implants can be used in a wide variety of ways, including: 
+
+- Visual
+- Auditory
+- Tactile
+- NFC/RFID Identification
+- Payment
+- Illumination
+- Data Storage
+- Sensory Perception
 
 </details>
 
@@ -140,7 +141,7 @@
 
 </summary>
 
-[Answer]
+ - Yes, payment implants do exist, but they have yet to become mainstream due to limitations imposed by the financial and credit industries. One example of a payment implant is the [Walletmor](https://cyborg.ksecsolutions.com/product/walletmor-installation-apex-needle/).
 
 </details>
 
@@ -150,7 +151,9 @@
 
 </summary>
 
-[Answer]
+- The short answer is no.
+
+- The long answer is no because RFID/NFC and GPS tracking, is actually Active RFID location tracking integrated with a GPS tracking system. This differs from simple RFID/NFC identification, which is passively powered and remains inactive the majority of the time. Consider pet microchips: if your dog is lost, someone must take it to a veterinarian to have the microchip scanned. There's no way to GPS locate a lost animal solely from it's microchip. 
 
 </details>
 
