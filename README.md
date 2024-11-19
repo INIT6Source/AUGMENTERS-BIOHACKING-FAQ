@@ -10,7 +10,7 @@
 
 </summary>
 
-  For the purposes of this guide, biohacking is referring to implanted NFC/RFID microchips, sensory magnets, LEDs, etc
+ - For the purposes of this guide, biohacking is referring to implanted NFC/RFID microchips, sensory magnets, LEDs, etc
 
 - **AUGMENTING**: To enhance or amplify something by adding to it, or in this context, to modify or improve the human body.
 
