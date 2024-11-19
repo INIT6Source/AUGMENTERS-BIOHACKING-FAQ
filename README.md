@@ -14,51 +14,61 @@
 
 3. How is this different than DIY-Bio, Citizen Science, Nootropics, Transhumanism, etc.?
 
-4. How is this different than Bryan Johnson or Andrew Huberman?
+    - DIY-BIO: Scientific research in biology undertaken by individuals outside the traditional setting of academic or research institutions, utilizing home labs with methods comparable to those in research facilities.
 
-5. What is an implant?
+    - CITIZEN SCIENCE: Scientific research conducted by non-professionals outside the traditional setting of academic or research institutions.
 
-6. What are the types of implants?
+    - NOOTROPICS: Commonly known as "smart drugs" or "cognitive enhancers," these synthetic and natural compounds are purported to enhance cognitive function.
 
-7. Why are transdermal implants suboptimal?
+    - TRANSHUMANISM: A philosophical movement that promotes the use of technology to augment human existence as a way to improve individual abilities, life quality, and to mitigate disease and suffering.
 
-8. How can implants be used?
+5. How is this different than Bryan Johnson or Andrew Huberman?
 
-9. Are there payment implants?
+6. What is an implant?
 
-10. Can I be GPS tracked?
+7. Am I a cyborg?
 
-11. What if I've been implanted against my will?
+8. What are the types of implants?
 
-12. Are implants safe?
+9. Why are transdermal implants suboptimal?
 
-13. Are implants FDA approved?
+10. How can implants be used?
 
-14. What are the risks from a medical perspective?
+11. Are there payment implants?
+
+12. Can I be GPS tracked?
+
+13. What if I've been implanted against my will?
+
+14. Are implants safe?
+
+15. Are implants FDA approved?
+
+16. What are the risks from a medical perspective?
 
     - Early animal studies suggested an increased risk of cancerous tumors developing near implants, but the detail most often left out is that cancer was being induced and accelerated in these studies. There's very little real medical risk.
 
-15. Are there any cases of infection or an allergic reaction?
+17. Are there any cases of infection or an allergic reaction?
 
     - Infection, allergic reaction, or rejection are rare and typically the result of poor aftercare or subpar DIY coatings. There are few recent cases with x-series bioglass microchip implants, which are among the most common.
 
-16. What about medical imaging?
+18. What about medical imaging?
 
     - Medical imaging is a non-issue except for implanted magnets. Dangerous Things provides an MRI compatibility guide for glass microchips, and a few individuals have undergone MRIs with magnets, although this isn't recommended.
 
     - [MRI Compatibility Guide](https://forum.dangerousthings.com/uploads/default/original/1X/289af3580c98807bdd9de089a27d73f383ce7bce.pdf)
 
-17. Will implants cause issues with TSA?
+19. Will implants cause issues with TSA?
 
-18. How do I set up an implant?
+20. How do I set up an implant?
 
-19. Where can I find an installer?
+21. Where can I find an installer?
 
-20. Why Open Source vs LLC vs Corporate?
+22. Why Open Source vs LLC vs Corporate?
 
-21. Where can I learn more?
+23. Where can I learn more?
 
-22. What's Grindfest?
+24. What's Grindfest?
 
     - Grindfest is an annual implant meetup held in the desert north of Los Angeles.
 
