@@ -14,7 +14,7 @@
 
 - **AUGMENTING**: To enhance or amplify something by adding to it, or in this context, to modify or improve the human body.
 
-- **BIOHACKING**: The unconventional or subversive application of technology to enhance or alter the human body's structure or capabilities.
+- **BIOHACKING**: The unconventional or subversive application of technology to enhance or alter the human body's structure or capabilities. A portmanteau of BIO and HACKING.
 
 - **GRINDING**: A subset of biohacking that focuses on more radical and customized implants, augmentations, and modifications.
 
@@ -68,6 +68,8 @@
 
 - Do you feel like a cyborg? This question delves into personal identity and opinion, and there's been extensive discussion on the topic. Check-out some of the following readings:
 
+- **CYBORG**: A person whose physiological abilities are extended beyond normal limitations by human-machine systems. A portmanteau of CYBERNETIC and ORGANISM.
+
 - [COMMON CYBORG:](https://granta.com/common-cyborg/) The experiences of a woman who considers herself a cyborg due to her use of prosthetics. Explore the complexities of living with a technological limb, societal perceptions, and the exclusion of disabled perspectives in discussions on cyborg identities.
 
 - [CYBORG MANIFESTO: SCIENCE, TECHNOLOGY, AND SOCIALIST-FEMINISM IN THE LATE TWENTIETH CENTURY:](https://doi.org/10.5749/minnesota/9780816650477.003.0001) 1980s American socialist feminism through the lens of C3I (command-control-communications-intelligence) systems, exploring the amalgamation of sciences and natural-social realms within this framework.
@@ -96,7 +98,19 @@
 
 </summary>
 
-[Answer]
+- Implants come in a wide variety of forms and functions:
+
+- [Microchips](https://dangerousthings.com/product/next/)
+- [Flexible](https://dangerousthings.com/product/apex-flex/)
+- [Magnets](https://dangerousthings.com/product/xg3/)
+- Visual
+- Auditory
+- Tactile
+- NFC/RFID Identification
+- Payment
+- Illumination
+- Data Storage
+- Miscellanious: Transcranial Direct Current Stimulation (tDCS), Brain-Computer Interfaces (BCIs), [Grindhouse Wetware](https://grindhousewetware/), etc
 
 </details>
 
