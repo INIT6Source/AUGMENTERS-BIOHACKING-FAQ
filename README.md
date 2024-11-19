@@ -4,7 +4,7 @@
 
 </div>
 
-#### 1. What is biohacking, augmenting, grinding, etc?
+### 1. What is biohacking, augmenting, grinding, etc?
 
     - AUGMENTING: To enhance or amplify something by adding to it, or in this context, to modify or improve the human body.
 
