@@ -18,17 +18,31 @@
 
 </details>
 
-2. How is this different than DIY-Bio, Citizen Science, Nootropics, Transhumanism, etc.?
+<details><summary>
 
-    - DIY-BIO: Scientific research in biology undertaken by individuals outside the traditional setting of academic or research institutions, utilizing home labs with methods comparable to those in research facilities.
+### 2. How is this different than DIY-Bio, Citizen Science, Nootropics, Transhumanism, etc.?
 
-    - CITIZEN SCIENCE: Scientific research conducted by non-professionals outside the traditional setting of academic or research institutions.
+</summary>
 
-    - NOOTROPICS: Commonly known as "smart drugs" or "cognitive enhancers," these synthetic and natural compounds are purported to enhance cognitive function.
+- DIY-BIO: Scientific research in biology undertaken by individuals outside the traditional setting of academic or research institutions, utilizing home labs with methods comparable to those in research facilities.
 
-    - TRANSHUMANISM: A philosophical movement that promotes the use of technology to augment human existence as a way to improve individual abilities, life quality, and to mitigate disease and suffering.
+- CITIZEN SCIENCE: Scientific research conducted by non-professionals outside the traditional setting of academic or research institutions.
 
+- NOOTROPICS: Commonly known as "smart drugs" or "cognitive enhancers," these synthetic and natural compounds are purported to enhance cognitive function.
+
+- TRANSHUMANISM: A philosophical movement that promotes the use of technology to augment human existence as a way to improve individual abilities, life quality, and to mitigate disease and suffering.
+
+</details>
+
+<details><summary
+             
 3. How is this different than Bryan Johnson or Andrew Huberman?
+
+</summary>
+
+ANSWER
+
+</details>
 
 4. What is an implant?
 
