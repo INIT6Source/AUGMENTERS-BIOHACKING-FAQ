@@ -34,7 +34,7 @@
 
 </details>
 
-<details><summary
+<details><summary>
              
 3. How is this different than Bryan Johnson or Andrew Huberman?
 
