@@ -10,7 +10,7 @@
 
 </summary>
 
- - For the purposes of this guide, biohacking is referring to implanted NFC/RFID microchips, sensory magnets, LEDs, etc
+ - For the purposes of this guide, biohacking refers to the use of implanted technologies such as NFC/RFID microchips, sensory magnets, LEDs, and similar enhancements.
 
 - **AUGMENTING**: To enhance or amplify something by adding to it, or in this context, to modify or improve the human body.
 
@@ -25,6 +25,8 @@
 ### 2. How is this different than DIY-BIO, Citizen Science, Nootropics, Transhumanism, etc?
 
 </summary>
+
+- This guide defines biohacking as the integration of implanted technologies, focusing on physical augmentation rather than biological experimentation or philosophical ideologies. It differs from DIY-BIO, citizen science, nootropics, and transhumanism by emphasizing practical, accessible enhancements to the body using technology.
 
 - **DIY-BIO**: Scientific research in biology undertaken by individuals outside the traditional setting of academic or research institutions, utilizing home labs with methods comparable to those in research facilities.
 
@@ -42,7 +44,7 @@
 
 </summary>
 
-[Answer]
+ - Unlike Bryan Johnson’s focus on longevity through biomedical intervention or Andrew Huberman’s emphasis on optimizing brain and body function through evidence-based practices, this guide’s centers on integrating implanted technologies. It prioritizes practical, hands-on augmentations over biological optimization or health monitoring.
 
 </details>
 
@@ -52,7 +54,9 @@
 
 </summary>
 
-[Answer]
+ - In this context, an implant refers to embedded devices like [NFC/RFID microchips](https://dangerousthings.com/product/next/), [flexible implants](https://dangerousthings.com/product/apex-flex/), [magnets](https://dangerousthings.com/product/xg3/), [LEDs](https://dangerousthings.com/product/xsiid/), and similar technologies.
+
+ - **IMPLANT**: Inert material or object embedded within the body.
 
 </details>
 
