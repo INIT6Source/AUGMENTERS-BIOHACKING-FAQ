@@ -20,7 +20,7 @@
 
 <details><summary>
 
-### 2. How is this different than DIY-Bio, Citizen Science, Nootropics, Transhumanism, etc.?
+### 2. How is this different than DIY-BIO, Citizen Science, Nootropics, Transhumanism, etc?
 
 </summary>
 
@@ -36,7 +36,7 @@
 
 <details><summary>
              
-3. How is this different than Bryan Johnson or Andrew Huberman?
+### 3. How is this different than Bryan Johnson or Andrew Huberman?
 
 </summary>
 
