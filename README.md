@@ -153,7 +153,7 @@
 
 - The short answer is no.
 
-- The long answer is no because RFID/NFC and GPS tracking, is actually Active RFID location tracking integrated with a GPS tracking system. This differs from simple RFID/NFC identification, which is passively powered and remains inactive the majority of the time. Consider pet microchips: if your dog is lost, someone must take it to a veterinarian to have the microchip scanned. There's no way to GPS locate a lost animal solely from it's microchip. 
+- The long answer is no because RFID/NFC and GPS tracking, is 'Active RFID location tracking integrated with a GPS tracking system'. This differs from simple RFID/NFC identification, which is passively powered and remains inactive the majority of the time. Consider pet microchips: if your dog is lost, someone must take it to a veterinarian to have the microchip scanned. There's no way to GPS locate a lost animal solely from it's microchip. 
 
 </details>
 
