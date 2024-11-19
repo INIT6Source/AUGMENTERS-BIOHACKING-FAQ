@@ -4,49 +4,50 @@
 
 </div>
 
-- What's Grindfest?
-  - Grindfest is an annual implant meetup held in the desert north of Los Angeles.
-  - https://augmentationlimitles.ipage.com/grindfest/
+1. What is biohacking, augmenting, grinding, etc?
 
-- What is biohacking, augmenting, grinding, etc?
+2. How is this different than DIY-Bio, Citizen Science, Nootropics, Transhumanism, etc.?
 
-- What is an implant?
+   *How is this different than Bryan Johnson or Andrew Huberman?
 
-- What are the types of implants?
+4. What is an implant?
 
-- How can implants be used?
+5. What are the types of implants?
 
-- How do I setup an implant?
+6. Why are transdermal implants suboptimal?
 
-- Where can I find an installer?
+7. How can implants be used?
 
-- Will implants cause issues with TSA?
+8. Are there payment implants?
 
-- Can I be GPS tracked?
+   *Can I be GPS tracked?
 
-- Are implants safe?
+    *What if I've been implanted against my will?
 
-- What if I've been implanted against my will?
+11. Are implants safe?
 
-- Why are transdermal implants suboptimal?
+12. Are implants FDA approved?
 
-- Why Open Source vs LLC vs Corporate?
+13. What are the risks from a medical perspective?
+    - Early animal studies suggested an increased risk of cancerous tumors developing near implants, but the detail most often left out is that cancer was being induced and accelerated in these studies. There's very little real medical risk.
 
-- How is this different than Bryan Johnson or Andrew Huberman?
+14. Are there any cases of infection or an allergic reaction?
+    - Infection, allergic reaction, or rejection are rare and typically the result of poor aftercare or subpar DIY coatings. There are few recent cases with x-series bioglass microchip implants, which are among the most common.
 
-- How is this different than DIY-Bio, Citizen Science, Nootropics, Transhumanism, etc.?
+15. What about medical imaging?
+    - Medical imaging is a non-issue except for implanted magnets. Dangerous Things provides an MRI compatibility guide for glass microchips, and a few individuals have undergone MRIs with magnets, although this isn't recommended.
+    - [MRI Compatibility Guide](https://forum.dangerousthings.com/uploads/default/original/1X/289af3580c98807bdd9de089a27d73f383ce7bce.pdf)
 
-- Are there payment implants?
+16. Will implants cause issues with TSA?
 
-- What are the risks from a medical perspective?
+17. How do I set up an implant?
 
-  - Early animal studies suggested an increased risk of cancerous tumors developing near implants but the detail most often left out is that cancer was being induced and accelerated in these studies. There's very little real medical risk. 
+18. Where can I find an installer?
 
-- Are there any cases of infection or an allergic reaction?
+19. Why Open Source vs LLC vs Corporate?
 
-  - Infection, allergic reaction, or rejection are rare and typically the result of poor aftercare or subpar DIY coatings. I don’t recall any recent cases with the x-series bioglass microchip implants, which are among the most common.
+20. Where can I learn more?
 
-- What about medical imaging?
-
-  - Medical imaging is a non-issue, except for implanted magnets. Dangerous Things provides an MRI compatibility guide for glass microchips, and there have been a handful of individuals who underwent MRIs with magnets, although this isn't the recommended.
-  - https://forum.dangerousthings.com/uploads/default/original/1X/289af3580c98807bdd9de089a27d73f383ce7bce.pdf
+21. What's Grindfest?
+    - Grindfest is an annual implant meetup held in the desert north of Los Angeles.
+    - [Grindfest Information](https://augmentationlimitles.ipage.com/grindfest/)
