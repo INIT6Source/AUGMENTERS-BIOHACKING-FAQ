@@ -8,13 +8,15 @@
 
 1. What is biohacking, augmenting, grinding, etc?
 
-</summary></details>
+</summary>
 
 - AUGMENTING: To enhance or amplify something by adding to it, or in this context, to modify or improve the human body.
 
 - BIOHACKING: The unconventional or subversive application of technology to enhance or alter the human body's structure or capibilities.
 
 - GRINDING: A subset of biohacking that focuses on more radical and customized implants, augmentations, and modifications.
+
+</details>
 
 2. How is this different than DIY-Bio, Citizen Science, Nootropics, Transhumanism, etc.?
 
