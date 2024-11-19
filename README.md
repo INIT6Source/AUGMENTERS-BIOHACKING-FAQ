@@ -66,7 +66,27 @@
 
 </summary>
 
-[Answer]
+- Do you feel like a cyborg? This question delves into personal identity and opinion, and there's been extensive discussion on the topic. Check-out some of the following readings:
+
+- [COMMON CYBORG:](https://granta.com/common-cyborg/) The experiences of a woman who considers herself a cyborg due to her use of prosthetics. Explore the complexities of living with a technological limb, societal perceptions, and the exclusion of disabled perspectives in discussions on cyborg identities.
+
+- [CYBORG MANIFESTO: SCIENCE, TECHNOLOGY, AND SOCIALIST-FEMINISM IN THE LATE TWENTIETH CENTURY:](https://doi.org/10.5749/minnesota/9780816650477.003.0001) 1980s American socialist feminism through the lens of C3I (command-control-communications-intelligence) systems, exploring the amalgamation of sciences and natural-social realms within this framework.
+
+- [CYBORGS, AGENTS, AND TRANSHUMANISTS CROSSING TRADITIONAL BORDERS OF BODY AND IDENTITY IN THE CONTEXT OF NEW TECHNOLOGY:](http://dx.doi.org/10.1162/002409400552838) Delves into the significance of the body's continuous interaction with the world, suggesting that attempts to alter or control the body through technology stem from a desire to manage the unpredictable and unconscious aspects of human life.
+
+- [CYBORGS AND SPACE:](https://web.mit.edu/digitalapollo/Documents/Chapter1/cyborgs.pdf) Examines the transition towards integrating humans with machines, or "cyborgs," to adapt to space environments, detailing technological and biological modifications necessary for survival in extraterrestrial conditions. 
+
+- [CYBORG MORALS, CYBORG VALUES, CYBORG ETHICS:](http://dx.doi.org/10.1023/B:ETIN.0000006870.65865.cf) Discusses the state and ethical implications of the emerging era of cyborgs, exploring pathways to becoming a cyborg, various types, and the author's personal experimentation, highlighting the importance of addressing ethical issues as advancements impact human and cyborg relations.
+
+- [CYBORG PEDAGOGY PERFORMING RESISTANCE IN THE DIGITAL AGE:](https://doi.org/10.2307/1321078) Posits the cyborg as a metaphor for critiquing the influence of information technology on posthuman identity and bodies, through the examination of performance artists like Stelarc and Orlan, introducing "cyborg pedagogies" as a means to explore digital culture's impact.
+
+- [HEAVENLY BODIES: WHY IT MATTERS THAT CYBORGS HAVE ALWAYS BEEN ABOUT DISABILITY, MENTAL HEALTH, AND MARGINALIZATION:](https://afutureworththinkingabout.com/?p=5396) The importance of inclusivity, adaptability, and honoring lived experiences in shaping future understandings of the cyborg and human existence.
+
+- [I, CYBORG:](https://isbnsearch.org/isbn/0252072154) The journey of Kevin Warwick, a trailblazer in the field of cybernetics, who has taken extraordinary steps to become part human, part machine.
+
+- [LAW AND POLICY IN AN ERA OF CYBORG-ASSISTED-LIFE THE IMPLICATIONS OF INTERFACING IN-THE-BODY TECHNOLOGIES TO THE OUTER WORLD:](https://doi.org/10.1109/ISTAS.2013.6613121) Advancements in medical technology are poised to integrate high-performance computational processors and synthetic DNA with human anatomy, promising to extend lifespans, enhance intellect, and introduce smart nano-prosthetics, but also raising critical ethical questions about accessibility, security, and the very definition of "human" in a future dominated by human cyborgs.
+
+- [NATURAL-BORN CYBORGS MINDS, TECHNOLOGIES, AND THE FUTURE OF HUMAN INTELLIGENCE:](https://isbnsearch.org/isbn/0195177517) Challenges the  depiction of cyborgs in popular culture, arguing that humans are inherently cyborg-like due to our natural ability to integrate tools and technologies into our existence.
 
 </details>
 
