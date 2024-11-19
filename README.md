@@ -1,4 +1,4 @@
-<div align="center"> 
+iv align="center"> 
 
 # AUGMENTER’S BIOHACKING FAQ
 
@@ -8,7 +8,7 @@
 
 2. How is this different than DIY-Bio, Citizen Science, Nootropics, Transhumanism, etc.?
 
-   *How is this different than Bryan Johnson or Andrew Huberman?
+3. How is this different than Bryan Johnson or Andrew Huberman?
 
 4. What is an implant?
 
@@ -20,9 +20,9 @@
 
 8. Are there payment implants?
 
-   *Can I be GPS tracked?
+9. Can I be GPS tracked?
 
-    *What if I've been implanted against my will?
+10. What if I've been implanted against my will?
 
 11. Are implants safe?
 
