@@ -98,7 +98,7 @@
 
 </summary>
 
-- Implants come in a wide variety of forms, including:
+Implants come in a wide variety of forms, including:
 
 - [Microchips](https://dangerousthings.com/product/next/)
 - [Flexible](https://dangerousthings.com/product/apex-flex/)
@@ -122,7 +122,7 @@
 
 </summary>
 
-- Implants can be used in a wide variety of ways, including: 
+Implants can be used in a wide variety of ways, including: 
 
 - Visual
 - Auditory
