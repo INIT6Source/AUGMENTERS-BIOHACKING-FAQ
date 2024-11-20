@@ -183,7 +183,7 @@ Implants can be used in a wide variety of ways, including:
 
 </summary>
 
-[Answer]
+ - The majority of implants lack FDA approval, but that doesn’t mean efforts aren’t underway to obtain it as is the case for the [VivoKey Spark 2](https://dangerousthings.com/product/vivokey-spark/).
 
 </details>
 
