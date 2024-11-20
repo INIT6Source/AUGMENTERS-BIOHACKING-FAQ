@@ -163,7 +163,7 @@
 
 </summary>
 
-[Answer]
+- If you suspect that you have been implanted against your will, I highly recommend reading the following forum thread: https://forum.dangerousthings.com/t/so-you-think-youve-been-implanted-against-your-will/64
 
 </details>
 
@@ -173,7 +173,7 @@
 
 </summary>
 
-[Answer]
+- Although implants haven't received FDA approval, they are considered as safe as other body modifications, such as tattoos or piercings. 
 
 </details>
 
