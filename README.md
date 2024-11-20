@@ -249,6 +249,12 @@ The long answer is no, as metal detectors, millimeter-wave scanners, and x-ray i
 
 There are several methods for getting an implant installed, each varying in risk. Professional installers are the safest option, while DIY installation carries significant risks and is strongly discouraged.
 
+- A professional installer can be located via the [Dangerous Things Professional Partner Map](https://dangerousthings.com/partners/). 
+
+- You may find a willing installer by engaging with the [Dangerous Things Forum](https://forum.dangerousthings.com/), [Biohackers Digital Discord Server](https://discord.com/invite/qauh766), [Reddit](https://www.reddit.com/r/grinders/), Facebook groups, reaching out to local piercing studios, or by connecting with a consenting medical or veterinary professional. If you're consulting a professional for an implant installation, it’s highly recommended to review the following resource: https://forum.dangerousthings.com/t/how-to-approach-a-professional/29
+
+- Although self-installation (DIY) is technically possible, it is strongly discouraged due to the significant risks involved. Any DIY installations are at your own risk. It's strongly advised to have medical training and contingency plans in case the installation fails or complications arise!
+
 </details>
 
 <details><summary>
