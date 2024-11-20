@@ -10,7 +10,7 @@
 
 </summary>
 
- - For the purposes of this guide, biohacking refers to the use of implanted technologies such as NFC/RFID microchips, sensory magnets, LEDs, and similar enhancements.
+ For the purposes of this guide, biohacking refers to the use of implanted technologies such as NFC/RFID microchips, sensory magnets, LEDs, and similar enhancements.
 
 - **AUGMENTING**: To enhance or amplify something by adding to it, or in this context, to modify or improve the human body.
 
@@ -26,7 +26,7 @@
 
 </summary>
 
-- This guide defines biohacking as the integration of implanted technologies, focusing on physical augmentation rather than biological experimentation or philosophical ideologies. It differs from DIY-BIO, citizen science, nootropics, and transhumanism by emphasizing practical, accessible enhancements to the body using technology.
+This guide defines biohacking as the integration of implanted technologies, focusing on physical augmentation rather than biological experimentation or philosophical ideologies. It differs from DIY-BIO, citizen science, nootropics, and transhumanism by emphasizing practical, accessible enhancements to the body using technology.
 
 - **DIY-BIO**: Scientific research in biology undertaken by individuals outside the traditional setting of academic or research institutions, utilizing home labs with methods comparable to those in research facilities.
 
@@ -44,7 +44,7 @@
 
 </summary>
 
- - Unlike Bryan Johnson’s focus on longevity through biomedical intervention or Andrew Huberman’s emphasis on optimizing brain and body function through evidence-based practices, this guide’s centers on integrating implanted technologies. It prioritizes practical, hands-on augmentations over biological optimization or health monitoring.
+ Unlike Bryan Johnson’s focus on longevity through biomedical intervention or Andrew Huberman’s emphasis on optimizing brain and body function through evidence-based practices, this guide’s centers on integrating implanted technologies. It prioritizes practical, hands-on augmentations over biological optimization or health monitoring.
 
 </details>
 
@@ -54,7 +54,7 @@
 
 </summary>
 
- - In this context, an implant refers to embedded devices like [NFC/RFID microchips](https://dangerousthings.com/product/next/), [flexible implants](https://dangerousthings.com/product/apex-flex/), [magnets](https://dangerousthings.com/product/xg3/), [LEDs](https://dangerousthings.com/product/xsiid/), and similar technologies.
+ In this context, an implant refers to embedded devices like [NFC/RFID microchips](https://dangerousthings.com/product/next/), [flexible implants](https://dangerousthings.com/product/apex-flex/), [magnets](https://dangerousthings.com/product/xg3/), [LEDs](https://dangerousthings.com/product/xsiid/), and similar technologies.
 
  - **IMPLANT**: Inert material or object embedded within the body.
 
@@ -66,7 +66,7 @@
 
 </summary>
 
-- Do you feel like a cyborg? This question delves into personal identity and opinion, and there's been extensive discussion on the topic. Check-out some of the following readings:
+Do you feel like a cyborg? This question delves into personal identity and opinion, and there's been extensive discussion on the topic. Check-out some of the following readings:
 
 - **CYBORG**: A person whose physiological abilities are extended beyond normal limitations by human-machine systems. A portmanteau of CYBERNETIC and ORGANISM.
 
@@ -112,7 +112,7 @@ Implants come in a wide variety of forms, including:
 
 </summary>
 
- - Transdermal implants, which reside both above and beneath the skin, are generally considered suboptimal due to their increased risk of infection and rejection.
+Transdermal implants, which reside both above and beneath the skin, are generally considered suboptimal due to their increased risk of infection and rejection.
 
 </details>
 
@@ -141,7 +141,7 @@ Implants can be used in a wide variety of ways, including:
 
 </summary>
 
- - Yes, payment implants do exist, but they have yet to become mainstream due to limitations imposed by the financial and credit industries. One example of a payment implant is the [Walletmor](https://cyborg.ksecsolutions.com/product/walletmor-installation-apex-needle/).
+Yes, payment implants do exist, but they have yet to become mainstream due to limitations imposed by the financial and credit industries. One example of a payment implant is the [Walletmor](https://cyborg.ksecsolutions.com/product/walletmor-installation-apex-needle/).
 
 </details>
 
@@ -151,9 +151,9 @@ Implants can be used in a wide variety of ways, including:
 
 </summary>
 
-- The short answer is no.
+The short answer is no.
 
-- The long answer is no because RFID/NFC and GPS tracking, is 'Active RFID location tracking integrated with a GPS tracking system'. This differs from simple RFID/NFC identification, which is passively powered and remains inactive the majority of the time. Consider pet microchips: if your dog is lost, someone must take it to a veterinarian to have the microchip scanned. There's no way to GPS locate a lost animal solely from it's microchip. 
+The long answer is no because RFID/NFC and GPS tracking, is 'Active RFID location tracking integrated with a GPS tracking system'. This differs from simple RFID/NFC identification, which is passively powered and remains inactive the majority of the time. Consider pet microchips: if your dog is lost, someone must take it to a veterinarian to have the microchip scanned. There's no way to GPS locate a lost animal solely from it's microchip. 
 
 </details>
 
@@ -163,7 +163,7 @@ Implants can be used in a wide variety of ways, including:
 
 </summary>
 
-- If you suspect that you have been implanted against your will, I highly recommend reading the following forum thread: https://forum.dangerousthings.com/t/so-you-think-youve-been-implanted-against-your-will/64
+If you suspect that you have been implanted against your will, I highly recommend reading the following forum thread: https://forum.dangerousthings.com/t/so-you-think-youve-been-implanted-against-your-will/64
 
 </details>
 
@@ -173,7 +173,7 @@ Implants can be used in a wide variety of ways, including:
 
 </summary>
 
-- Although implants haven't received FDA approval, they are considered as safe as other body modifications, such as tattoos or piercings. 
+Implants are generally regarded as safe, comparable to other body modifications like tattoos or piercings, though they carry similar inherent risks, including rejection, infection, or allergic reactions.
 
 </details>
 
@@ -183,7 +183,7 @@ Implants can be used in a wide variety of ways, including:
 
 </summary>
 
- - The majority of implants lack FDA approval, but that doesn’t mean efforts aren’t underway to obtain it as is the case for the [VivoKey Spark 2](https://dangerousthings.com/product/vivokey-spark/).
+The majority of implants lack FDA approval, but that doesn’t mean efforts aren’t underway to obtain it as is the case for the [VivoKey Spark 2](https://dangerousthings.com/product/vivokey-spark/).
 
 </details>
 
@@ -193,7 +193,7 @@ Implants can be used in a wide variety of ways, including:
 
 </summary>
 
-- Early animal studies suggested an increased risk of cancerous tumors developing near implants, but the detail most often left out is that cancer was being induced and accelerated in these studies. There's very little real medical risk.
+Early animal studies suggested an increased risk of cancerous tumors developing near implants, but the detail most often left out is that cancer was being induced and accelerated in these studies. There's very little real medical risk.
 
 </details>
 
@@ -203,7 +203,7 @@ Implants can be used in a wide variety of ways, including:
 
 </summary>
 
-- Infection, allergic reaction, or rejection are rare and typically the result of poor aftercare or subpar DIY coatings. There are few recent cases with x-series bioglass microchip implants, which are among the most common.
+Infection, allergic reaction, or rejection are rare and typically the result of poor aftercare or subpar DIY coatings. There are few recent cases with x-series bioglass microchip implants, which are among the most common.
 
 </details>
 
@@ -213,7 +213,7 @@ Implants can be used in a wide variety of ways, including:
 
 </summary>
 
-- Medical imaging is a non-issue except for implanted magnets. Dangerous Things provides an MRI compatibility guide for glass microchips, and a few individuals have undergone MRIs with magnets, although this isn't recommended.
+Medical imaging is a non-issue except for implanted magnets. Dangerous Things provides an MRI compatibility guide for glass microchips, and a few individuals have undergone MRIs with magnets, although this isn't recommended.
 
 - [MRI Compatibility Guide](https://forum.dangerousthings.com/uploads/default/original/1X/289af3580c98807bdd9de089a27d73f383ce7bce.pdf)
 
@@ -225,7 +225,9 @@ Implants can be used in a wide variety of ways, including:
 
 </summary>
 
-[Answer]
+The short answer is no.
+
+The long answer is no, as metal detectors, millimeter-wave scanners, and x-ray imaging lack the sensitivity to detect the minute amounts of metal present in implants.
 
 </details>
 
@@ -245,7 +247,7 @@ Implants can be used in a wide variety of ways, including:
 
 </summary>
 
-[Answer]
+There are several methods for getting an implant installed, each varying in risk. Professional installers are the safest option, while DIY installation carries significant risks and is strongly discouraged.
 
 </details>
 
