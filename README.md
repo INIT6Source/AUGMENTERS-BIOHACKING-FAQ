@@ -261,17 +261,7 @@ Implants can be used in a wide variety of ways, including:
 
 <details><summary>
 
-### 21. Where can I learn more?
-
-</summary>
-
-[Answer]
-
-</details>
-
-<details><summary>
-
-### 22. What's Grindfest?
+### 21. What's Grindfest?
 
 </summary>
 
@@ -280,3 +270,13 @@ Implants can be used in a wide variety of ways, including:
 - [Grindfest Information](https://augmentationlimitles.ipage.com/grindfest/)
 
 </details>
+
+### 22. Where can I learn more?
+
+</summary>
+
+[Answer]
+
+</details>
+
+<details><summary>
