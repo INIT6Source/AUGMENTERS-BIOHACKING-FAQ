@@ -100,9 +100,11 @@ Do you feel like a cyborg? This question delves into personal identity and opini
 
 Implants come in a wide variety of forms, including:
 
-- [Microchips](https://dangerousthings.com/product/next/)
-- [Flexible](https://dangerousthings.com/product/apex-flex/)
-- [Magnets](https://dangerousthings.com/product/xg3/)
+[Microchips](https://dangerousthings.com/category/implants/x-series/)
+
+[Flexible](https://dangerousthings.com/category/implants/flex-series/)
+
+[Magnets](https://dangerousthings.com/category/implants/biomagnet-implants/)
 
 </details>
 
@@ -269,7 +271,7 @@ Considerations:
 Best For:
 - **Magnetic Field Detection:** Sense electromagnetic fields from devices or machinery.
 - **Enhanced Sensory Perception:** Ideal for electricians or artists wanting increased tactile feedback.
-- **Magnetic Tricks:** Simple tricks like lifting small feromagnetic objects like bottlecaps.
+- **Magic Tricks:** Simple tricks like lifting small feromagnetic objects like bottlecaps.
 
 Popular Options:
 - **xG3:** Designed for lifting and encapsulated in a bioglass microchip form factor.
@@ -359,6 +361,8 @@ Your implant's functionality depends on its type and capabilities. Below are som
 
 **Digital Business Card:** Store and share contact information via NFC.
 
+**Medical Records:** Store emergency medical data like blood type or allergies.
+
 **Authentication:** Log into systems using two-factor authentication (2FA).
 
 **Custom Apps:** Program NFC tasks, such as automating smart home devices.
@@ -369,6 +373,29 @@ Your implant's functionality depends on its type and capabilities. Below are som
 
 ## Magnet Implants
 
+**Magnetic Field Detection:** Sense electromagnetic fields from devices or wires.
+
+**Subtle Notifications:** Pair with wearables for vibrational alerts via magnets.
+
+**Magic Tricks:** Perform tricks like lifting small feromagnetic objects like bottlecaps.
+
+**Interactive Art:** Build DIY projects that use magnets for tactile feedback.
+
+**Augmented Perception:** Sense otherwise imperceptible environmental changes.
+
+## Payment Implants
+
+**Contactless Transactions:** Pay at NFC-enabled terminals by tapping your hand.
+
+**Ticketing:** Use your implant for public transportation or event access.
+
+**Custom Financial Systems:** Integrate with decentralized financial tools or cryptocurrency wallets.
+
+## Illumination Implants
+
+**Aesthetic Enhancements:** Glow in low light for decorative purposes.
+
+**Body Art Integration:** Combine illumination implants with tattoos for dynamic effects.
 
 </details>
 
