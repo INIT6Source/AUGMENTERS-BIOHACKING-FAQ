@@ -10,13 +10,13 @@
 
 </summary>
 
- For the purposes of this guide, biohacking refers to the use of implanted technologies such as NFC/RFID microchips, sensory magnets, LEDs, and similar enhancements.
+ Biohacking refers to the use of implanted technologies such as NFC/RFID microchips, sensory magnets, LEDs, and similar enhancements. 
 
 - **AUGMENTING**: To enhance or amplify something by adding to it, or in this context, to modify or improve the human body.
 
 - **BIOHACKING**: The unconventional or subversive application of technology to enhance or alter the human body's structure or capabilities. A portmanteau of BIO and HACKING.
 
-- **GRINDING**: A subset of biohacking that focuses on more radical and customized implants, augmentations, and modifications.
+- **GRINDING**: A subset of biohacking that focuses on more radical and customized implants, augmentations, and body modifications.
 
 </details>
 
@@ -26,7 +26,7 @@
 
 </summary>
 
-This guide defines biohacking as the integration of implanted technologies, focusing on physical augmentation rather than biological experimentation or philosophical ideologies. It differs from DIY-BIO, citizen science, nootropics, and transhumanism by emphasizing practical, accessible enhancements to the body using technology.
+ Biohacking is defined as the integration of implanted technologies, focusing on physical augmentation rather than biological experimentation or philosophical ideologies. It differs from DIY-BIO, citizen science, nootropics, and transhumanism by emphasizing practical, accessible enhancements to the body using technology.
 
 - **DIY-BIO**: Scientific research in biology undertaken by individuals outside the traditional setting of academic or research institutions, utilizing home labs with methods comparable to those in research facilities.
 
@@ -54,7 +54,7 @@ This guide defines biohacking as the integration of implanted technologies, focu
 
 </summary>
 
- In this context, an implant refers to embedded devices like [NFC/RFID microchips](https://dangerousthings.com/product/next/), [flexible implants](https://dangerousthings.com/product/apex-flex/), [magnets](https://dangerousthings.com/product/xg3/), [LEDs](https://dangerousthings.com/product/xsiid/), and similar technologies.
+ An implant refers to embedded devices like [NFC/RFID microchips](https://dangerousthings.com/product/next/), [flexible implants](https://dangerousthings.com/product/apex-flex/), [magnets](https://dangerousthings.com/product/xg3/), [LEDs](https://dangerousthings.com/product/xsiid/), and similar technologies.
 
  - **IMPLANT**: Inert material or object embedded within the body.
 
@@ -98,7 +98,7 @@ Do you feel like a cyborg? This question delves into personal identity and opini
 
 </summary>
 
-Implants come in a wide variety of forms, including:
+Implants come in a wide variety of forms:
 
 [Microchips](https://dangerousthings.com/category/implants/x-series/)
 
@@ -124,11 +124,11 @@ Transdermal implants, which reside both above and beneath the skin, are generall
 
 </summary>
 
-Implanted technology offers a wide range of applications, from restoring and enhancing human senses to providing digital identification and data storage solutions. Here are some of the most common applications.
+Implanted technology offers a wide range of applications, from restoring and enhancing human senses to providing digital identification and data storage. Here are some of the most common applications.
 
 ### Visual
 
-Visual implants are designed to enhance or restore vision by interfacing with the visual system. These technologies aim to assist individuals with vision impairments or augment the natural visual capabilities. Examples include infrared eye drops and Neil Harbisson's "Cyborg Antenna."
+Visual implants are designed to enhance or restore vision by interfacing with the visual system. This technology aims to assist individuals with vision impairments or augment the natural capabilities. Examples include infrared eye drops and Neil Harbisson's "Cyborg Antenna."
 
 ### Auditory
 
@@ -150,10 +150,6 @@ Payment implants facilitate electronic transactions by storing payment informati
 
 Illumination implants incorporate light-emitting components into the body, providing aesthetic enhancements for decorative purposes. Examples include the Dangerous Things xSIID and xLED.
 
-### Data Storage
-
-Data storage implants enable individuals to store and access digital information directly within their bodies. These implants can hold personal data, medical records, or other forms of digital information for convenient access and management. Examples include the PegLeg. 
-
 </details>
 
 <details><summary>
@@ -164,7 +160,7 @@ Data storage implants enable individuals to store and access digital information
 
 The short answer is no.
 
-The long answer is no because RFID/NFC and GPS tracking, is 'Active RFID location tracking integrated with a GPS tracking system'. This differs from simple RFID/NFC identification, which is passively powered and remains inactive the majority of the time. Consider pet microchips: if your dog is lost, someone must take it to a veterinarian to have the microchip scanned. There's no way to GPS locate a lost animal solely from it's microchip. 
+The long answer is no because RFID/NFC with GPS tracking, is 'Active RFID location tracking integrated with a GPS tracking system'. This differs from simple RFID/NFC identification, which is passively powered and remains inactive the majority of the time. Consider pet microchips: If your dog is lost, someone must take it to a veterinarian to have the microchip scanned. There's no way to GPS locate a lost animal solely from it's microchip. 
 
 </details>
 
@@ -174,7 +170,7 @@ The long answer is no because RFID/NFC and GPS tracking, is 'Active RFID locatio
 
 </summary>
 
-If you suspect that you have been implanted against your will, I highly recommend reading the following forum thread: https://forum.dangerousthings.com/t/so-you-think-youve-been-implanted-against-your-will/64
+If you suspect that you have been implanted against your will, reading the following forum thread is highly recommend: https://forum.dangerousthings.com/t/so-you-think-youve-been-implanted-against-your-will/64
 
 </details>
 
@@ -184,7 +180,7 @@ If you suspect that you have been implanted against your will, I highly recommen
 
 </summary>
 
-Implants are generally regarded as safe, comparable to other body modifications like tattoos or piercings, though they carry similar inherent risks, including rejection, infection, or allergic reactions.
+Implants are generally considered safe, comparable to other body modifications like tattoos or piercings, though they carry similar risks, including rejection, infection, or allergic reactions.
 
 </details>
 
@@ -214,7 +210,7 @@ Early animal studies suggested an increased risk of cancerous tumors developing 
 
 </summary>
 
-Infection, allergic reaction, or rejection are rare and typically the result of poor aftercare or subpar DIY coatings. There are few recent cases with x-series bioglass microchip implants, which are among the most common.
+Infection, allergic reaction, or rejection are rare and typically the result of poor aftercare or subpar DIY coatings. 
 
 </details>
 
@@ -248,7 +244,7 @@ The long answer is no, as metal detectors, millimeter-wave scanners, and x-ray i
 
 </summary>
 
-The type of implant you should consider depends on your goals, intended use case, and comfort with risk. Below is a guide to help you determine the best implant for your needs, categorized by common purposes:
+The type of implant you should consider depends on your goals, intended use case, and comfort with risk. Below is a guide to help you determine the best implant for your needs:
 
 ### NFC/RFID Microchip Implants
 
@@ -269,7 +265,7 @@ Considerations:
 ## Magnet Implants
 
 Best For:
-- **Magnetic Field Detection:** Sense electromagnetic fields from devices or machinery.
+- **Magnetic Field Detection:** Sensing electromagnetic fields from devices or machinery.
 - **Enhanced Sensory Perception:** Ideal for electricians or artists wanting increased tactile feedback.
 - **Magic Tricks:** Simple tricks like lifting small feromagnetic objects like bottlecaps.
 
@@ -288,9 +284,10 @@ Considerations:
 Best For:
 - **Contactless Payments:** Tap to pay at NFC-enabled terminals.
 - **Convenience:** Replace wallets and cards with an implant.
+- **Ticketing:** Use your implant for public transportation or event access.
 
 Popular Options:
-- **Walletmor:** Certified payment implant compatible with many systems.
+- **Walletmor:** Payment implant compatible with many systems.
 
 Considerations:
 - **Region Support:** Verify compatibility with local payment systems.
@@ -300,7 +297,7 @@ Considerations:
 ## Illumination Implants
 
 Best For:
-- **Aesthetics:** Glow for decorative purposes.
+- **Aesthetics:** Glow-in-the-dark for decorative purposes.
 
 Popular Options:
 - **xSIID or xLED:** LED-based implant.
@@ -315,11 +312,11 @@ Purpose: Determine the specific problem the implant solves or enhancement it pro
 
 Body Placement: Consider where on your body the implant will be most effective and comfortable.
 
-Risk Tolerance: Assess your comfort potential pain, rejection, or migration.
+Risk Tolerance: Assess your comfort with potential pain, rejection, or migration.
 
-Budget: Implants range from $50 to several hundred dollars, plus installation cost.
+Budget: Implants range from $50 to several hundred dollars, plus installation costs.
 
-Professional Installation: Recommended to ensure safety. Not all installers are qualified or willing to perform all types of implants, with most specializing in injectable microchips.
+Professional Installation: Recommended to ensure safety. Not all installers are qualified or willing to perform all types of implants, with most comfortable installing in only injectable microchips.
 
 </details>
 
@@ -333,9 +330,9 @@ Professional Installation: Recommended to ensure safety. Not all installers are 
 
 **[Dangerous Things](https://dangerousthings.com):** US-based retailer with a wide range of consumer implants and biohacking supplies.
 
-**[VivoKey](https://vivokey.com):** Secure, programmable NFC implants.
+**[VivoKey](https://vivokey.com):** Secure, programmable cryptographic implants.
 
-**[Symbiont Labs](https://www.facebook.com/symbiontlabs/):** Prototype implants.
+**[Symbiont Labs](https://www.facebook.com/symbiontlabs/):** Implant prototypes.
 
 **[KSEC Solutions](https://cyborg.ksecsolutions.com/):** UK implant retailer.
 
@@ -393,7 +390,7 @@ Your implant's functionality depends on its type and capabilities. Below are som
 
 ## Illumination Implants
 
-**Aesthetic Enhancements:** Glow in low light for decorative purposes.
+**Aesthetic Enhancements:** Glow-in-the-dark for decorative purposes.
 
 **Body Art Integration:** Combine illumination implants with tattoos for dynamic effects.
 
