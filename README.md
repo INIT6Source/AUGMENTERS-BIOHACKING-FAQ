@@ -156,8 +156,6 @@ Data storage implants enable individuals to store and access digital information
 
 <details><summary>
 
-<details><summary>
-
 ### 9. Can I be GPS tracked?
 
 </summary>
