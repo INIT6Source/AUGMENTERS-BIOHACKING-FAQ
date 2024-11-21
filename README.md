@@ -6,7 +6,7 @@
 
 <details><summary>
 
-### 1. What is biohacking, augmenting, grinding, etc?
+## 1. What is biohacking, augmenting, grinding, etc?
 
 </summary>
 
@@ -22,7 +22,7 @@
 
 <details><summary>
 
-### 2. How is this different than DIY-Bio, Citizen Science, Nootropics, Transhumanism, etc?
+## 2. How is this different than DIY-Bio, Citizen Science, Nootropics, Transhumanism, etc?
 
 </summary>
 
@@ -40,7 +40,7 @@ This guide defines biohacking as the integration of implanted technologies, focu
 
 <details><summary>
 
-### 3. How is this different than Bryan Johnson or Andrew Huberman?
+## 3. How is this different than Bryan Johnson or Andrew Huberman?
 
 </summary>
 
@@ -50,7 +50,7 @@ This guide defines biohacking as the integration of implanted technologies, focu
 
 <details><summary>
 
-### 4. What is an implant?
+## 4. What is an implant?
 
 </summary>
 
@@ -62,7 +62,7 @@ This guide defines biohacking as the integration of implanted technologies, focu
 
 <details><summary>
 
-### 5. Am I a cyborg?
+## 5. Am I a cyborg?
 
 </summary>
 
@@ -94,7 +94,7 @@ Do you feel like a cyborg? This question delves into personal identity and opini
 
 <details><summary>
 
-### 6. What type of implants are there?
+## 6. What type of implants are there?
 
 </summary>
 
@@ -108,7 +108,7 @@ Implants come in a wide variety of forms, including:
 
 <details><summary>
 
-### 7. Why are transdermal implants suboptimal?
+## 7. Why are transdermal implants suboptimal?
 
 </summary>
 
@@ -118,37 +118,37 @@ Transdermal implants, which reside both above and beneath the skin, are generall
 
 <details><summary>
 
-### 8. How can implants be used?
+## 8. How can implants be used?
 
 </summary>
 
 Implanted technology offers a wide range of applications, from restoring and enhancing human senses to providing digital identification and data storage solutions. Here are some of the most common applications.
 
-## Visual
+### Visual
 
 Visual implants are designed to enhance or restore vision by interfacing with the visual system. These technologies aim to assist individuals with vision impairments or augment the natural visual capabilities. Examples include infrared eye drops and Neil Harbisson's "Cyborg Antenna."
 
-## Auditory
+### Auditory
 
 Auditory implants aim to restore or enhance hearing by stimulating the auditory pathways. These devices assist individuals with hearing loss or augment auditory perception beyond natural capabilities. Examples include tragus magnets. 
 
-## 3. Tactile
+### 3. Tactile
 
 Tactile implants enhance or restore the sense of touch by interfacing with the nervous system. These devices can aid individuals with sensory impairments or augment tactile perception for enhanced interaction with the environment. Examples include implanted sensory magnets.
 
-## NFC/RFID Identification 
+### NFC/RFID Identification 
 
 NFC (Near Field Communication) and RFID (Radio-Frequency Identification) implants serve as digital identification tools. They enable wireless communication with compatible devices for authentication, access control, and information storage. Examples include the Dangerous Things NeXT and xEM.
 
-## Payment
+### Payment
 
 Payment implants facilitate electronic transactions by storing payment information. They enable users to make purchases without traditional payment methods like credit cards or smartphones. Examples include the [Walletmor](https://cyborg.ksecsolutions.com/product/walletmor-installation-apex-needle/).
 
-## Illumination
+### Illumination
 
 Illumination implants incorporate light-emitting components into the body, providing aesthetic enhancements for decorative purposes. Examples include the Dangerous Things xSIID and xLED.
 
-## Data Storage
+### Data Storage
 
 Data storage implants enable individuals to store and access digital information directly within their bodies. These implants can hold personal data, medical records, or other forms of digital information for convenient access and management. Examples include the PegLeg. 
 
@@ -156,7 +156,7 @@ Data storage implants enable individuals to store and access digital information
 
 <details><summary>
 
-### 9. Can I be GPS tracked?
+## 9. Can I be GPS tracked?
 
 </summary>
 
@@ -168,7 +168,7 @@ The long answer is no because RFID/NFC and GPS tracking, is 'Active RFID locatio
 
 <details><summary>
 
-### 10. What if I've been implanted against my will?
+## 10. What if I've been implanted against my will?
 
 </summary>
 
@@ -178,7 +178,7 @@ If you suspect that you have been implanted against your will, I highly recommen
 
 <details><summary>
 
-### 11. Are implants safe?
+## 11. Are implants safe?
 
 </summary>
 
@@ -188,7 +188,7 @@ Implants are generally regarded as safe, comparable to other body modifications 
 
 <details><summary>
 
-### 12. Are implants FDA approved?
+## 12. Are implants FDA approved?
 
 </summary>
 
@@ -198,7 +198,7 @@ The majority of implants lack FDA approval, but that doesn’t mean efforts aren
 
 <details><summary>
 
-### 13. What are the risks from a medical perspective?
+## 13. What are the risks from a medical perspective?
 
 </summary>
 
@@ -208,7 +208,7 @@ Early animal studies suggested an increased risk of cancerous tumors developing 
 
 <details><summary>
 
-### 14. Are there any cases of infection or an allergic reaction?
+## 14. Are there any cases of infection or an allergic reaction?
 
 </summary>
 
@@ -218,7 +218,7 @@ Infection, allergic reaction, or rejection are rare and typically the result of 
 
 <details><summary>
 
-### 15. What about medical imaging?
+## 15. What about medical imaging?
 
 </summary>
 
@@ -230,7 +230,7 @@ Medical imaging is a non-issue except for implanted magnets. Dangerous Things pr
 
 <details><summary>
 
-### 16. Will implants cause issues with TSA?
+## 16. Will implants cause issues with TSA?
 
 </summary>
 
@@ -242,7 +242,7 @@ The long answer is no, as metal detectors, millimeter-wave scanners, and x-ray i
 
 <details><summary>
 
-### 17. What implant do I get?
+## 17. What implant do I get?
 
 </summary>
 
@@ -252,7 +252,7 @@ The long answer is no, as metal detectors, millimeter-wave scanners, and x-ray i
 
 <details><summary>
 
-### 18. What can I do with my implant?
+## 18. What can I do with my implant?
 
 </summary>
 
@@ -262,7 +262,7 @@ The long answer is no, as metal detectors, millimeter-wave scanners, and x-ray i
 
 <details><summary>
 
-### 19. How do I setup my implant?
+## 19. How do I setup my implant?
 
 </summary>
 
@@ -272,7 +272,7 @@ The long answer is no, as metal detectors, millimeter-wave scanners, and x-ray i
 
 <details><summary>
 
-### 20. Where can I find an installer?
+## 20. Where can I find an installer?
 
 </summary>
 
@@ -288,7 +288,7 @@ There are several methods for getting an implant installed, each varying in risk
 
 <details><summary>
 
-### 21. What's Grindfest?
+## 21. What's Grindfest?
 
 </summary>
 
@@ -300,7 +300,7 @@ There are several methods for getting an implant installed, each varying in risk
 
 <details><summary>
 
-### 22. Where can I learn more?
+## 22. Where can I learn more?
 
 </summary>
 
