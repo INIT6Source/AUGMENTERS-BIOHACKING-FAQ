@@ -22,7 +22,7 @@
 
 <details><summary>
 
-## 2. How is this different than DIY-Bio, Citizen Science, Nootropics, Transhumanism, etc?
+## 2. How is this different than DIY-Bio, Nootropics, Transhumanism, etc?
 
 </summary>
 
