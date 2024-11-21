@@ -132,7 +132,7 @@ Visual implants are designed to enhance or restore vision by interfacing with th
 
 Auditory implants aim to restore or enhance hearing by stimulating the auditory pathways. These devices assist individuals with hearing loss or augment auditory perception beyond natural capabilities. Examples include tragus magnets. 
 
-### 3. Tactile
+### Tactile
 
 Tactile implants enhance or restore the sense of touch by interfacing with the nervous system. These devices can aid individuals with sensory impairments or augment tactile perception for enhanced interaction with the environment. Examples include implanted sensory magnets.
 
@@ -242,7 +242,93 @@ The long answer is no, as metal detectors, millimeter-wave scanners, and x-ray i
 
 <details><summary>
 
-## 17. What implant do I get?
+## 17. What implant should I get?
+
+</summary>
+
+The type of implant you should consider depends on your goals, intended use case, and comfort with risk. Below is a guide to help you determine the best implant for your needs, categorized by common purposes:
+
+### NFC/RFID Microchip Implants
+
+Best For:
+- **Access Control:** Unlock doors, start cars, or log into devices.
+- **Identification:** Store digital business cards or personal identification.
+- **Data Storage:** Store small amounts of information like URLs or passwords.
+
+Popular Options:
+- **xNT (13.56 MHz):** Compatible with many high-frequency NFC systems.
+- **xEM (125 kHz):** Used for low-frequency access systems.
+- **NeXT:** 13.56 MHz (HF) NFC and 125 kHz (LF) RFID
+
+Considerations:
+- **Compatibility:** Ensure compatibility with the system you plan to use.
+- **Ease of Installation:** Injected subdermally with minimal discomfort.
+
+## Magnet Implants
+
+Best For:
+- **Magnetic Field Detection:** Sense electromagnetic fields from devices or machinery.
+- **Enhanced Sensory Perception:** Ideal for electricians or artists wanting increased tactile feedback.
+- **Magnetic Tricks:** Simple tricks like lifting small feromagnetic objects like bottlecaps.
+
+Popular Options:
+- **xG3:** Designed for lifting and encapsulated in a bioglass microchip form factor.
+- **Titan:** Encapsulated in medical-grade titanium and optimized for sensing applications.
+
+Considerations:
+- **Placement:** Implanted in fingertips for optimal sensory perception or in the hand for lifting.
+- **Strength:** Choose between sensing-focused or lifting-focused magnets.
+- **Risks:** Be aware of coating failure, migration, or reduced sensation over time.
+- **Ease of Installation:** Injected subdermally with mild discomfort or implanted in the fingertip, typically using a scalpel and appropriate pain management protocols.
+
+## Payment Implants
+
+Best For:
+- **Contactless Payments:** Tap to pay at NFC-enabled terminals.
+- **Convenience:** Replace wallets and cards with an implant.
+
+Popular Options:
+- **Walletmor:** Certified payment implant compatible with many systems.
+
+Considerations:
+- **Region Support:** Verify compatibility with local payment systems.
+- **Expiration:** Implants tied to payment cards may need replacement after expiration.
+- **Ease of Installation:** Typically using a scalpel and appropriate pain management protocols.
+
+## Illumination Implants
+
+Best For:
+- **Aesthetics:** Glow for decorative purposes.
+
+Popular Options:
+- **xSIID or xLED:** LED-based implant.
+
+Considerations:
+- **Purpose:** Primarily aesthetic with limited practical application.
+- **Ease of Installation:** Injected subdermally with minimal discomfort.
+
+## Decision-Making Factors
+
+Purpose:
+- Determine the specific problem the implant solves or enhancement it provides.
+
+Body Placement:
+- Consider where on your body the implant will be most effective and comfortable.
+
+Risk Tolerance:
+- Assess your comfort with risks like pain, rejection, or migration.
+
+Budget:
+- Implants range from $50 to several hundred dollars, plus installation cost.
+
+Professional Installation:
+- Professional installation is recommended to ensure safety. Not all installers are qualified or willing to perform all types of implants, with most specializing in injectable microchips.
+
+</details>
+
+<details><summary>
+
+## 18. Where do I get an implant?
 
 </summary>
 
@@ -252,7 +338,7 @@ The long answer is no, as metal detectors, millimeter-wave scanners, and x-ray i
 
 <details><summary>
 
-## 18. What can I do with my implant?
+## 19. What can I do with my implant?
 
 </summary>
 
@@ -262,7 +348,7 @@ The long answer is no, as metal detectors, millimeter-wave scanners, and x-ray i
 
 <details><summary>
 
-## 19. How do I setup my implant?
+## 20. How do I setup my implant?
 
 </summary>
 
@@ -272,7 +358,7 @@ The long answer is no, as metal detectors, millimeter-wave scanners, and x-ray i
 
 <details><summary>
 
-## 20. Where can I find an installer?
+## 21. Where can I find an installer?
 
 </summary>
 
@@ -288,7 +374,7 @@ There are several methods for getting an implant installed, each varying in risk
 
 <details><summary>
 
-## 21. What's Grindfest?
+## 22. What's Grindfest?
 
 </summary>
 
@@ -300,7 +386,7 @@ There are several methods for getting an implant installed, each varying in risk
 
 <details><summary>
 
-## 22. Where can I learn more?
+## 23. Where can I learn more?
 
 </summary>
 
