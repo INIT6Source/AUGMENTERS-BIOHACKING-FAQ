@@ -327,7 +327,19 @@ Professional Installation: Recommended to ensure safety. Not all installers are 
 
 </summary>
 
-[Answer]
+## 9. Popular Vendors and Resources
+
+**[Dangerous Things](https://dangerousthings.com):** US-based retailer with a wide range of consumer implants and biohacking supplies.
+
+**[VivoKey](https://vivokey.com):** Secure, programmable NFC implants.
+
+**[Symbiont Labs](https://www.facebook.com/symbiontlabs/):** Prototype implants.
+
+**[KSEC Solutions](https://cyborg.ksecsolutions.com/):** UK implant retailer.
+
+**[I am Robot](https://chip-implants.com/):** German/EU implant retailer.
+
+**[Digiwell](https://digiwell.com/):** EU/German implant retailer
 
 </details>
 
@@ -337,7 +349,26 @@ Professional Installation: Recommended to ensure safety. Not all installers are 
 
 </summary>
 
-[Answer]
+Your implant's functionality depends on its type and capabilities. Below are some common and creative uses for various implants.
+
+## NFC/RFID Implants
+
+**Access Control:** Unlock doors, start cars, or log into devices.
+
+**Device Unlocking:** Use your implant to unlock your smartphone or computer.
+
+**Digital Business Card:** Store and share contact information via NFC.
+
+**Authentication:** Log into systems using two-factor authentication (2FA).
+
+**Custom Apps:** Program NFC tasks, such as automating smart home devices.
+
+**Interactive Art:** Create installations or projects that respond to your implant.
+
+**Cryptographic Operations:** Use secure implants like VivoKey Apex for digital signatures or blockchain wallets.
+
+## Magnet Implants
+
 
 </details>
 
