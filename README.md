@@ -170,7 +170,7 @@ The long answer is no because RFID/NFC with GPS tracking, is 'Active RFID locati
 
 </summary>
 
-If you suspect that you have been implanted against your will, reading the following forum thread is highly recommend: https://forum.dangerousthings.com/t/so-you-think-youve-been-implanted-against-your-will/64
+If you suspect that you have been implanted against your will, reading the following forum thread is highly recommend: [So you think you've been implanted against your will](https://forum.dangerousthings.com/t/so-you-think-youve-been-implanted-against-your-will/64)
 
 </details>
 
@@ -409,67 +409,67 @@ Setup will largely depend on the type of implant technology and its intended use
 
 ### Tools Needed:
 
-RFID reader compatible with 125 kHz (e.g., Proxmark3 or a Flipper Zero).
+- RFID reader compatible with 125 kHz (e.g., Proxmark3 or a Flipper Zero).
 
-RFID-compatible tags or locks.
+- RFID-compatible tags or locks.
 
 ### Programming:
 
-Connect your reader to a computer or smartphone.
+- Connect your reader to a computer or smartphone.
 
-Place the implant under the reader.
+- Place the implant under the reader.
 
-Write the desired data (e.g., access keys, user ID) to the implant.
+- Write the desired data (e.g., access keys, user ID) to the implant.
 
 ### Testing:
 
-After programming, test the implant by scanning it with the reader.
+- After programming, test the implant by scanning it with the reader.
 
 ### Integration:
 
-Pair the implant with RFID-enabled devices like door locks or security systems.
+- Pair the implant with RFID-enabled devices like door locks or security systems.
 
 ## 13.56 MHz NFC Implant
 
 ### Tools Needed:
 
-NFC-enabled smartphone or device (most modern smartphones).
+- NFC-enabled smartphone or device (most modern smartphones).
 
-NFC apps (e.g., NFC Tools, TagWriter by NXP) for programming.
+- NFC apps (e.g., NFC Tools, TagWriter by NXP) for programming.
 
 ### Programming:
 
-Open an NFC app on your phone.
+- Open an NFC app on your phone.
 
-Bring the implant close to the phone's NFC reader.
+- Bring the implant close to the phone's NFC reader.
 
-Write data, such as a URL, contact information, or custom commands, to the implant.
+- Write data, such as a URL, contact information, or custom commands, to the implant.
 
 ### Testing:
 
-Use the same or a different device to read the implant and confirm the data was successfully written.
+- Use the same or a different device to read the implant and confirm the data was successfully written.
 
 ### Integration:
 
-Sync your implant with NFC systems like smart locks or custom automation systems.
+- Sync your implant with NFC systems like smart locks or custom automation systems.
 
 ## Magnet
 
 ### Tools Needed:
 
-Ferromagnetic metal objects (e.g., small pins, screws).
+- Ferromagnetic metal objects (e.g., small pins, screws).
 
-[Lodestone: Pico](https://dangerousthings.com/product/lodestone-pico/)
+- [Lodestone: Pico](https://dangerousthings.com/product/lodestone-pico/)
 
 ### Testing After Implantation:
 
-Gradually explore the magnet's ability to detect electromagnetic fields by moving it near electrical devices or wires.
+- Gradually explore the magnet's ability to detect electromagnetic fields by moving it near electrical devices or wires.
 
-Test its strength by attempting to pick up small metallic objects.
+- Test its strength by attempting to pick up small metallic objects.
 
 ### Adaptation:
 
-Allow time for your body to adapt and become sensitive to changes in magnetic fields.
+- Allow time for your body to adapt and become sensitive to changes in magnetic fields.
 
 </details>
 
