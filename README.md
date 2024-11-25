@@ -466,7 +466,7 @@ Gradually explore the magnet's ability to detect electromagnetic fields by movin
 
 Test its strength by attempting to pick up small metallic objects.
 
-### Adaptation**:
+### Adaptation:
 
 Allow time for your body to adapt and become sensitive to changes in magnetic fields.
 
