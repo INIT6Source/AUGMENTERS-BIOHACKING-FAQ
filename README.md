@@ -250,89 +250,62 @@ The type of implant you should consider depends on your goals, intended use case
 
 Best For:
 
-**Access Control:** Unlock doors, start cars, or log into devices.
-
-**Identification:** Store digital business cards or personal identification.
-
-**Data Storage:** Store small amounts of information like URLs or passwords.
+- **Access Control:** Unlock doors, start cars, or log into devices.
+- **Identification:** Store digital business cards or personal identification.
+- **Data Storage:** Store small amounts of information like URLs or passwords.
 
 Popular Options:
-
-**xNT (13.56 MHz):** Compatible with many high-frequency NFC systems.
-
-**xEM (125 kHz):** Used for low-frequency access systems.
-
-**NeXT:** 13.56 MHz (HF) NFC and 125 kHz (LF) RFID
+- **xNT (13.56 MHz):** Compatible with many high-frequency NFC systems.
+- **xEM (125 kHz):** Used for low-frequency access systems.
+- **NeXT:** 13.56 MHz (HF) NFC and 125 kHz (LF) RFID
 
 Considerations:
-
-**Compatibility:** Ensure compatibility with the system you plan to use.
-
-**Ease of Installation:** Injected subdermally with minimal discomfort.
+- **Compatibility:** Ensure compatibility with the system you plan to use.
+- **Ease of Installation:** Injected subdermally with minimal discomfort.
 
 ## Magnet Implants
 
 Best For:
-
-**Magnetic Field Detection:** Sensing electromagnetic fields from devices or machinery.
-
-**Enhanced Sensory Perception:** Ideal for electricians or artists wanting increased tactile feedback.
-
-**Magic Tricks:** Simple tricks like lifting small feromagnetic objects like bottlecaps.
+- **Magnetic Field Detection:** Sensing electromagnetic fields from devices or machinery.
+- **Enhanced Sensory Perception:** Ideal for electricians or artists wanting increased tactile feedback.
+- **Magic Tricks:** Simple tricks like lifting small feromagnetic objects like bottlecaps.
 
 Popular Options:
-
-**xG3:** Designed for lifting and encapsulated in a bioglass microchip form factor.
-
-**Titan:** Encapsulated in medical-grade titanium and optimized for sensing applications.
+- **xG3:** Designed for lifting and encapsulated in a bioglass microchip form factor.
+- **Titan:** Encapsulated in medical-grade titanium and optimized for sensing applications.
 
 Considerations:
-
-**Placement:** Implanted in fingertips for optimal sensory perception or in the hand for lifting.
-
-**Strength:** Choose between sensing-focused or lifting-focused magnets.
-
-**Risks:** Be aware of coating failure, migration, or reduced sensation over time.
-
-**Ease of Installation:** Injected subdermally with mild discomfort or implanted in the fingertip, typically using a scalpel and appropriate pain management protocols.
+- **Placement:** Implanted in fingertips for optimal sensory perception or in the hand for lifting.
+- **Strength:** Choose between sensing-focused or lifting-focused magnets.
+- **Risks:** Be aware of coating failure, migration, or reduced sensation over time.
+- **Ease of Installation:** Injected subdermally with mild discomfort or implanted in the fingertip, typically using a scalpel and appropriate pain management protocols.
 
 ## Payment Implants
 
 Best For:
-
-**Contactless Payments:** Tap to pay at NFC-enabled terminals.
-
-**Convenience:** Replace wallets and cards with an implant.
-
-**Ticketing:** Use your implant for public transportation or event access.
+- **Contactless Payments:** Tap to pay at NFC-enabled terminals.
+- **Convenience:** Replace wallets and cards with an implant.
+- **Ticketing:** Use your implant for public transportation or event access.
 
 Popular Options:
-
-**Walletmor:** Payment implant compatible with many systems.
+- **Walletmor:** Payment implant compatible with many systems.
 
 Considerations:
-
-**Region Support:** Verify compatibility with local payment systems.
-
-**Expiration:** Implants tied to payment cards may need replacement after expiration.
-
-**Ease of Installation:** Typically using a scalpel and appropriate pain management protocols.
+- **Region Support:** Verify compatibility with local payment systems.
+- **Expiration:** Implants tied to payment cards may need replacement after expiration.
+- **Ease of Installation:** Typically using a scalpel and appropriate pain management protocols.
 
 ## Illumination Implants
 
 Best For:
-
-**Aesthetics:** Glow-in-the-dark for decorative purposes.
+- **Aesthetics:** Glow-in-the-dark for decorative purposes.
 
 Popular Options:
-
-**xSIID or xLED:** LED-based implant.
+- **xSIID or xLED:** LED-based implant.
 
 Considerations:
-
-**Purpose:** Primarily aesthetic with limited practical application.
-
-**Ease of Installation:** Injected subdermally with minimal discomfort.
+- **Purpose:** Primarily aesthetic with limited practical application.
+- **Ease of Installation:** Injected subdermally with minimal discomfort.
 
 ## Decision-Making Factors
 
