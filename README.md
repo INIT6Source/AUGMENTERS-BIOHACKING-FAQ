@@ -10,7 +10,7 @@
 
 </summary>
 
- Biohacking refers to the use of implanted technologies such as NFC/RFID microchips, sensory magnets, LEDs, and similar enhancements. 
+ Biohacking refers to the use of implanted technologies such as NFC/RFID, sensory magnets, LEDs, and similar enhancements. 
 
 **AUGMENTING**: To enhance or amplify something by adding to it, or in this context, to modify or improve the human body.
 
@@ -246,7 +246,7 @@ The long answer is no, as metal detectors, millimeter-wave scanners, and x-ray i
 
 The type of implant you should consider depends on your goals, intended use case, and comfort with risk. Below is a guide to help you determine the best implant for your needs:
 
-### NFC/RFID Microchip Implants
+### NFC/RFID Implants
 
 Best For:
 
