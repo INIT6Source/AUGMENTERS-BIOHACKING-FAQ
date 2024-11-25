@@ -402,7 +402,81 @@ Your implant's functionality depends on its type and capabilities. Below are som
 
 </summary>
 
-[Answer]
+Setup will largely depend on the type of implant technology and its intended use case.
+
+## 125 kHz RFID Implant
+
+### Tools Needed:
+
+RFID reader compatible with 125 kHz (e.g., Proxmark3 or a Flipper Zero).
+
+RFID-compatible tags or locks.
+
+### Programming:
+
+Connect your reader to a computer or smartphone.
+
+Place the implant under the reader.
+
+Write the desired data (e.g., access keys, user ID) to the implant.
+
+### Testing:
+
+After programming, test the implant by scanning it with the reader.
+
+### Integration:
+
+Pair the implant with RFID-enabled devices like door locks or security systems.
+
+## 13.56 MHz NFC Implant
+
+### Tools Needed:
+
+NFC-enabled smartphone or device (most modern smartphones).
+
+NFC apps (e.g., NFC Tools, TagWriter by NXP) for programming.
+
+### Programming:
+
+Open an NFC app on your phone.
+
+Bring the implant close to the phone's NFC reader.
+
+Write data, such as a URL, contact information, or custom commands, to the implant.
+
+### Testing:
+
+Use the same or a different device to read the implant and confirm the data was successfully written.
+
+### Integration:
+
+Sync your implant with NFC systems like smart locks or custom automation systems.
+
+## Magnet
+
+### Tools Needed:
+
+Ferromagnetic metal objects (e.g., small pins, screws).
+
+[Lodestone: Pico](https://dangerousthings.com/product/lodestone-pico/)
+
+### Testing After Implantation**:
+
+Open an NFC app on your phone.
+
+Bring the implant close to the phone's NFC reader.
+
+Write data, such as a URL, contact information, or custom commands, to the implant.
+
+### Testing:
+
+Gradually explore the magnet's ability to detect electromagnetic fields by moving it near electrical devices or wires.
+
+Test its strength by attempting to pick up small metallic objects.
+
+### Adaptation**:
+
+Allow time for your body to adapt and become sensitive to changes in magnetic fields.
 
 </details>
 
@@ -428,9 +502,7 @@ There are several methods for getting an implant installed, each varying in risk
 
 </summary>
 
-- Grindfest is an annual implant meetup held in the desert north of Los Angeles.
-
-- [Grindfest Information](https://augmentationlimitles.ipage.com/grindfest/)
+[Grindfest](https://augmentationlimitles.ipage.com/grindfest/) is an annual implant meetup held in the desert north of Los Angeles.
 
 </details>
 
@@ -440,6 +512,10 @@ There are several methods for getting an implant installed, each varying in risk
 
 </summary>
 
-[Answer]
+[BIOHACKERS DIGITAL](https://discord.gg/implants)
+
+[DEF CON BIOHACK VILLAGE](https://www.villageb.io/)
+
+[SYMBIONT LABS](https://discord.gg/xKyzAdmW)
 
 </details>
