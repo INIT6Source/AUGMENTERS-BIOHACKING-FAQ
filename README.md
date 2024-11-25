@@ -12,11 +12,11 @@
 
  Biohacking refers to the use of implanted technologies such as NFC/RFID microchips, sensory magnets, LEDs, and similar enhancements. 
 
-- **AUGMENTING**: To enhance or amplify something by adding to it, or in this context, to modify or improve the human body.
+**AUGMENTING**: To enhance or amplify something by adding to it, or in this context, to modify or improve the human body.
 
-- **BIOHACKING**: The unconventional or subversive application of technology to enhance or alter the human body's structure or capabilities. A portmanteau of BIO and HACKING.
+**BIOHACKING**: The unconventional or subversive application of technology to enhance or alter the human body's structure or capabilities. A portmanteau of BIO and HACKING.
 
-- **GRINDING**: A subset of biohacking that focuses on more radical and customized implants, augmentations, and body modifications.
+**GRINDING**: A subset of biohacking that focuses on more radical and customized implants, augmentations, and body modifications.
 
 </details>
 
@@ -28,13 +28,13 @@
 
  Biohacking is defined as the integration of implanted technologies, focusing on physical augmentation rather than biological experimentation or philosophical ideologies. It differs from DIY-BIO, citizen science, nootropics, and transhumanism by emphasizing practical, accessible enhancements to the body using technology.
 
-- **DIY-BIO**: Scientific research in biology undertaken by individuals outside the traditional setting of academic or research institutions, utilizing home labs with methods comparable to those in research facilities.
+**DIY-BIO**: Scientific research in biology undertaken by individuals outside the traditional setting of academic or research institutions, utilizing home labs with methods comparable to those in research facilities.
 
-- **CITIZEN SCIENCE**: Scientific research conducted by non-professionals outside the traditional setting of academic or research institutions.
+**CITIZEN SCIENCE**: Scientific research conducted by non-professionals outside the traditional setting of academic or research institutions.
 
-- **NOOTROPICS**: Commonly known as "smart drugs" or "cognitive enhancers," these synthetic and natural compounds are purported to enhance cognitive function.
+**NOOTROPICS**: Commonly known as "smart drugs" or "cognitive enhancers," these synthetic and natural compounds are purported to enhance cognitive function.
 
-- **TRANSHUMANISM**: A philosophical movement that promotes the use of technology to augment human existence as a way to improve individual abilities, life quality, and to mitigate disease and suffering.
+**TRANSHUMANISM**: A philosophical movement that promotes the use of technology to augment human existence as a way to improve individual abilities, life quality, and to mitigate disease and suffering.
 
 </details>
 
@@ -56,7 +56,7 @@
 
  An implant refers to embedded devices like [NFC/RFID microchips](https://dangerousthings.com/product/next/), [flexible implants](https://dangerousthings.com/product/apex-flex/), [magnets](https://dangerousthings.com/product/xg3/), [LEDs](https://dangerousthings.com/product/xsiid/), and similar technologies.
 
- - **IMPLANT**: Inert material or object embedded within the body.
+ **IMPLANT**: Inert material or object embedded within the body.
 
 </details>
 
@@ -68,27 +68,27 @@
 
 Do you feel like a cyborg? This question delves into personal identity and opinion, and there's been extensive discussion on the topic. Check-out some of the following readings:
 
-- **CYBORG**: A person whose physiological abilities are extended beyond normal limitations by human-machine systems. A portmanteau of CYBERNETIC and ORGANISM.
+**CYBORG**: A person whose physiological abilities are extended beyond normal limitations by human-machine systems. A portmanteau of CYBERNETIC and ORGANISM.
 
-- [COMMON CYBORG:](https://granta.com/common-cyborg/) The experiences of a woman who considers herself a cyborg due to her use of prosthetics. Explore the complexities of living with a technological limb, societal perceptions, and the exclusion of disabled perspectives in discussions on cyborg identities.
+[COMMON CYBORG:](https://granta.com/common-cyborg/) The experiences of a woman who considers herself a cyborg due to her use of prosthetics. Explore the complexities of living with a technological limb, societal perceptions, and the exclusion of disabled perspectives in discussions on cyborg identities.
 
-- [CYBORG MANIFESTO: SCIENCE, TECHNOLOGY, AND SOCIALIST-FEMINISM IN THE LATE TWENTIETH CENTURY:](https://doi.org/10.5749/minnesota/9780816650477.003.0001) 1980s American socialist feminism through the lens of C3I (command-control-communications-intelligence) systems, exploring the amalgamation of sciences and natural-social realms within this framework.
+[CYBORG MANIFESTO: SCIENCE, TECHNOLOGY, AND SOCIALIST-FEMINISM IN THE LATE TWENTIETH CENTURY:](https://doi.org/10.5749/minnesota/9780816650477.003.0001) 1980s American socialist feminism through the lens of C3I (command-control-communications-intelligence) systems, exploring the amalgamation of sciences and natural-social realms within this framework.
 
-- [CYBORGS, AGENTS, AND TRANSHUMANISTS CROSSING TRADITIONAL BORDERS OF BODY AND IDENTITY IN THE CONTEXT OF NEW TECHNOLOGY:](http://dx.doi.org/10.1162/002409400552838) Delves into the significance of the body's continuous interaction with the world, suggesting that attempts to alter or control the body through technology stem from a desire to manage the unpredictable and unconscious aspects of human life.
+[CYBORGS, AGENTS, AND TRANSHUMANISTS CROSSING TRADITIONAL BORDERS OF BODY AND IDENTITY IN THE CONTEXT OF NEW TECHNOLOGY:](http://dx.doi.org/10.1162/002409400552838) Delves into the significance of the body's continuous interaction with the world, suggesting that attempts to alter or control the body through technology stem from a desire to manage the unpredictable and unconscious aspects of human life.
 
-- [CYBORGS AND SPACE:](https://web.mit.edu/digitalapollo/Documents/Chapter1/cyborgs.pdf) Examines the transition towards integrating humans with machines, or "cyborgs," to adapt to space environments, detailing technological and biological modifications necessary for survival in extraterrestrial conditions. 
+[CYBORGS AND SPACE:](https://web.mit.edu/digitalapollo/Documents/Chapter1/cyborgs.pdf) Examines the transition towards integrating humans with machines, or "cyborgs," to adapt to space environments, detailing technological and biological modifications necessary for survival in extraterrestrial conditions. 
 
-- [CYBORG MORALS, CYBORG VALUES, CYBORG ETHICS:](http://dx.doi.org/10.1023/B:ETIN.0000006870.65865.cf) Discusses the state and ethical implications of the emerging era of cyborgs, exploring pathways to becoming a cyborg, various types, and the author's personal experimentation, highlighting the importance of addressing ethical issues as advancements impact human and cyborg relations.
+[CYBORG MORALS, CYBORG VALUES, CYBORG ETHICS:](http://dx.doi.org/10.1023/B:ETIN.0000006870.65865.cf) Discusses the state and ethical implications of the emerging era of cyborgs, exploring pathways to becoming a cyborg, various types, and the author's personal experimentation, highlighting the importance of addressing ethical issues as advancements impact human and cyborg relations.
 
-- [CYBORG PEDAGOGY PERFORMING RESISTANCE IN THE DIGITAL AGE:](https://doi.org/10.2307/1321078) Posits the cyborg as a metaphor for critiquing the influence of information technology on posthuman identity and bodies, through the examination of performance artists like Stelarc and Orlan, introducing "cyborg pedagogies" as a means to explore digital culture's impact.
+[CYBORG PEDAGOGY PERFORMING RESISTANCE IN THE DIGITAL AGE:](https://doi.org/10.2307/1321078) Posits the cyborg as a metaphor for critiquing the influence of information technology on posthuman identity and bodies, through the examination of performance artists like Stelarc and Orlan, introducing "cyborg pedagogies" as a means to explore digital culture's impact.
 
-- [HEAVENLY BODIES: WHY IT MATTERS THAT CYBORGS HAVE ALWAYS BEEN ABOUT DISABILITY, MENTAL HEALTH, AND MARGINALIZATION:](https://afutureworththinkingabout.com/?p=5396) The importance of inclusivity, adaptability, and honoring lived experiences in shaping future understandings of the cyborg and human existence.
+[HEAVENLY BODIES: WHY IT MATTERS THAT CYBORGS HAVE ALWAYS BEEN ABOUT DISABILITY, MENTAL HEALTH, AND MARGINALIZATION:](https://afutureworththinkingabout.com/?p=5396) The importance of inclusivity, adaptability, and honoring lived experiences in shaping future understandings of the cyborg and human existence.
 
-- [I, CYBORG:](https://isbnsearch.org/isbn/0252072154) The journey of Kevin Warwick, a trailblazer in the field of cybernetics, who has taken extraordinary steps to become part human, part machine.
+[I, CYBORG:](https://isbnsearch.org/isbn/0252072154) The journey of Kevin Warwick, a trailblazer in the field of cybernetics, who has taken extraordinary steps to become part human, part machine.
 
-- [LAW AND POLICY IN AN ERA OF CYBORG-ASSISTED-LIFE THE IMPLICATIONS OF INTERFACING IN-THE-BODY TECHNOLOGIES TO THE OUTER WORLD:](https://doi.org/10.1109/ISTAS.2013.6613121) Advancements in medical technology are poised to integrate high-performance computational processors and synthetic DNA with human anatomy, promising to extend lifespans, enhance intellect, and introduce smart nano-prosthetics, but also raising critical ethical questions about accessibility, security, and the very definition of "human" in a future dominated by human cyborgs.
+[LAW AND POLICY IN AN ERA OF CYBORG-ASSISTED-LIFE THE IMPLICATIONS OF INTERFACING IN-THE-BODY TECHNOLOGIES TO THE OUTER WORLD:](https://doi.org/10.1109/ISTAS.2013.6613121) Advancements in medical technology are poised to integrate high-performance computational processors and synthetic DNA with human anatomy, promising to extend lifespans, enhance intellect, and introduce smart nano-prosthetics, but also raising critical ethical questions about accessibility, security, and the very definition of "human" in a future dominated by human cyborgs.
 
-- [NATURAL-BORN CYBORGS MINDS, TECHNOLOGIES, AND THE FUTURE OF HUMAN INTELLIGENCE:](https://isbnsearch.org/isbn/0195177517) Challenges the  depiction of cyborgs in popular culture, arguing that humans are inherently cyborg-like due to our natural ability to integrate tools and technologies into our existence.
+[NATURAL-BORN CYBORGS MINDS, TECHNOLOGIES, AND THE FUTURE OF HUMAN INTELLIGENCE:](https://isbnsearch.org/isbn/0195177517) Challenges the  depiction of cyborgs in popular culture, arguing that humans are inherently cyborg-like due to our natural ability to integrate tools and technologies into our existence.
 
 </details>
 
@@ -222,7 +222,7 @@ Infection, allergic reaction, or rejection are rare and typically the result of 
 
 Medical imaging is a non-issue except for implanted magnets. Dangerous Things provides an MRI compatibility guide for glass microchips, and a few individuals have undergone MRIs with magnets, although this isn't recommended.
 
-- [MRI Compatibility Guide](https://forum.dangerousthings.com/uploads/default/original/1X/289af3580c98807bdd9de089a27d73f383ce7bce.pdf)
+[MRI Compatibility Guide](https://forum.dangerousthings.com/uploads/default/original/1X/289af3580c98807bdd9de089a27d73f383ce7bce.pdf)
 
 </details>
 
@@ -249,62 +249,90 @@ The type of implant you should consider depends on your goals, intended use case
 ### NFC/RFID Microchip Implants
 
 Best For:
-- **Access Control:** Unlock doors, start cars, or log into devices.
-- **Identification:** Store digital business cards or personal identification.
-- **Data Storage:** Store small amounts of information like URLs or passwords.
+
+**Access Control:** Unlock doors, start cars, or log into devices.
+
+**Identification:** Store digital business cards or personal identification.
+
+**Data Storage:** Store small amounts of information like URLs or passwords.
 
 Popular Options:
-- **xNT (13.56 MHz):** Compatible with many high-frequency NFC systems.
-- **xEM (125 kHz):** Used for low-frequency access systems.
-- **NeXT:** 13.56 MHz (HF) NFC and 125 kHz (LF) RFID
+
+**xNT (13.56 MHz):** Compatible with many high-frequency NFC systems.
+
+**xEM (125 kHz):** Used for low-frequency access systems.
+
+**NeXT:** 13.56 MHz (HF) NFC and 125 kHz (LF) RFID
 
 Considerations:
-- **Compatibility:** Ensure compatibility with the system you plan to use.
-- **Ease of Installation:** Injected subdermally with minimal discomfort.
+
+**Compatibility:** Ensure compatibility with the system you plan to use.
+
+**Ease of Installation:** Injected subdermally with minimal discomfort.
 
 ## Magnet Implants
 
 Best For:
-- **Magnetic Field Detection:** Sensing electromagnetic fields from devices or machinery.
-- **Enhanced Sensory Perception:** Ideal for electricians or artists wanting increased tactile feedback.
-- **Magic Tricks:** Simple tricks like lifting small feromagnetic objects like bottlecaps.
+
+**Magnetic Field Detection:** Sensing electromagnetic fields from devices or machinery.
+
+**Enhanced Sensory Perception:** Ideal for electricians or artists wanting increased tactile feedback.
+
+**Magic Tricks:** Simple tricks like lifting small feromagnetic objects like bottlecaps.
 
 Popular Options:
-- **xG3:** Designed for lifting and encapsulated in a bioglass microchip form factor.
-- **Titan:** Encapsulated in medical-grade titanium and optimized for sensing applications.
+
+**xG3:** Designed for lifting and encapsulated in a bioglass microchip form factor.
+
+**Titan:** Encapsulated in medical-grade titanium and optimized for sensing applications.
 
 Considerations:
-- **Placement:** Implanted in fingertips for optimal sensory perception or in the hand for lifting.
-- **Strength:** Choose between sensing-focused or lifting-focused magnets.
-- **Risks:** Be aware of coating failure, migration, or reduced sensation over time.
-- **Ease of Installation:** Injected subdermally with mild discomfort or implanted in the fingertip, typically using a scalpel and appropriate pain management protocols.
+
+**Placement:** Implanted in fingertips for optimal sensory perception or in the hand for lifting.
+
+**Strength:** Choose between sensing-focused or lifting-focused magnets.
+
+**Risks:** Be aware of coating failure, migration, or reduced sensation over time.
+
+**Ease of Installation:** Injected subdermally with mild discomfort or implanted in the fingertip, typically using a scalpel and appropriate pain management protocols.
 
 ## Payment Implants
 
 Best For:
-- **Contactless Payments:** Tap to pay at NFC-enabled terminals.
-- **Convenience:** Replace wallets and cards with an implant.
-- **Ticketing:** Use your implant for public transportation or event access.
+
+**Contactless Payments:** Tap to pay at NFC-enabled terminals.
+
+**Convenience:** Replace wallets and cards with an implant.
+
+**Ticketing:** Use your implant for public transportation or event access.
 
 Popular Options:
-- **Walletmor:** Payment implant compatible with many systems.
+
+**Walletmor:** Payment implant compatible with many systems.
 
 Considerations:
-- **Region Support:** Verify compatibility with local payment systems.
-- **Expiration:** Implants tied to payment cards may need replacement after expiration.
-- **Ease of Installation:** Typically using a scalpel and appropriate pain management protocols.
+
+**Region Support:** Verify compatibility with local payment systems.
+
+**Expiration:** Implants tied to payment cards may need replacement after expiration.
+
+**Ease of Installation:** Typically using a scalpel and appropriate pain management protocols.
 
 ## Illumination Implants
 
 Best For:
-- **Aesthetics:** Glow-in-the-dark for decorative purposes.
+
+**Aesthetics:** Glow-in-the-dark for decorative purposes.
 
 Popular Options:
-- **xSIID or xLED:** LED-based implant.
+
+**xSIID or xLED:** LED-based implant.
 
 Considerations:
-- **Purpose:** Primarily aesthetic with limited practical application.
-- **Ease of Installation:** Injected subdermally with minimal discomfort.
+
+**Purpose:** Primarily aesthetic with limited practical application.
+
+**Ease of Installation:** Injected subdermally with minimal discomfort.
 
 ## Decision-Making Factors
 
@@ -480,11 +508,11 @@ Allow time for your body to adapt and become sensitive to changes in magnetic fi
 
 There are several methods for getting an implant installed, each varying in risk. Professional installers are the safest option, while DIY installation carries significant risks and is strongly discouraged.
 
-- A professional installer can be located via the [Dangerous Things Professional Partner Map](https://dangerousthings.com/partners/). 
+A professional installer can be located via the [Dangerous Things Professional Partner Map](https://dangerousthings.com/partners/). 
 
-- You may find a willing installer by engaging with the [Dangerous Things Forum](https://forum.dangerousthings.com/), [Biohackers Digital Discord Server](https://discord.com/invite/qauh766), [Reddit](https://www.reddit.com/r/grinders/), Facebook groups, reaching out to local piercing studios, or by connecting with a consenting medical or veterinary professional. If you're consulting a professional for an implant installation, it’s highly recommended to review the following resource: https://forum.dangerousthings.com/t/how-to-approach-a-professional/29
+You may find a willing installer by engaging with the [Dangerous Things Forum](https://forum.dangerousthings.com/), [Biohackers Digital Discord Server](https://discord.com/invite/qauh766), [Reddit](https://www.reddit.com/r/grinders/), Facebook groups, reaching out to local piercing studios, or by connecting with a consenting medical or veterinary professional. If you're consulting a professional for an implant installation, it’s highly recommended to review the following resource: https://forum.dangerousthings.com/t/how-to-approach-a-professional/29
 
-- Although self-installation (DIY) is technically possible, it is strongly discouraged due to the significant risks involved. Any DIY installations are at your own risk. It's strongly advised to have medical training and contingency plans in case the installation fails or complications arise!
+Although self-installation (DIY) is technically possible, it is strongly discouraged due to the significant risks involved. Any DIY installations are at your own risk. It's strongly advised to have medical training and contingency plans in case the installation fails or complications arise!
 
 </details>
 
