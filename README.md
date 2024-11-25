@@ -460,15 +460,7 @@ Ferromagnetic metal objects (e.g., small pins, screws).
 
 [Lodestone: Pico](https://dangerousthings.com/product/lodestone-pico/)
 
-### Testing After Implantation**:
-
-Open an NFC app on your phone.
-
-Bring the implant close to the phone's NFC reader.
-
-Write data, such as a URL, contact information, or custom commands, to the implant.
-
-### Testing:
+### Testing After Implantation:
 
 Gradually explore the magnet's ability to detect electromagnetic fields by moving it near electrical devices or wires.
 
