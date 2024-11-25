@@ -98,7 +98,7 @@ Do you feel like a cyborg? This question delves into personal identity and opini
 
 </summary>
 
-Implants come in a wide variety of forms:
+Implants come in a wide variety of forms, however, the most common include:
 
 [Microchips](https://dangerousthings.com/category/implants/x-series/)
 
