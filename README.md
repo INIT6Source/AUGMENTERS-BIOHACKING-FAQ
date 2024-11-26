@@ -106,7 +106,7 @@ Implants are available in a wide range of forms, with the most common including:
 
 [Magnets](https://web.archive.org/web/20241001054623/https://dangerousthings.com/category/implants/biomagnet-implants/)
 
-Besides those three, there are numerous prototypes!
+There are numerous prototypes too:
 
 [PegLeg](https://web.archive.org/web/20240828215846/http://pegleg.org/)
 
