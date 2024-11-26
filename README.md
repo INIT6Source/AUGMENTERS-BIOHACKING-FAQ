@@ -10,7 +10,7 @@
 
 </summary>
 
- Biohacking refers to the use of implanted technologies such as NFC/RFID, sensory magnets, LEDs, and similar enhancements. 
+ Biohacking refers to the use of implanted technologies such as NFC/RFID, magnets, LEDs, and similar enhancements. 
 
 **AUGMENTING**: To enhance or amplify something by adding to it, or in this context, to modify or improve the human body.
 
@@ -26,7 +26,7 @@
 
 </summary>
 
- Biohacking is defined as the integration of implanted technologies, focusing on physical augmentation rather than biological experimentation or philosophical ideologies. It differs from DIY-BIO, citizen science, nootropics, and transhumanism by emphasizing practical, accessible enhancements to the body using technology.
+ Biohacking is defined as the integration of implanted technologies, focusing on physical augmentation rather than biological experimentation or philosophical ideologies. It differs from DIY-Bio, citizen science, nootropics, and transhumanism by emphasizing practical, accessible enhancements to the body using technology.
 
 **DIY-BIO**: Scientific research in biology undertaken by individuals outside the traditional setting of academic or research institutions, utilizing home labs with methods comparable to those in research facilities.
 
@@ -54,7 +54,7 @@
 
 </summary>
 
- An implant refers to embedded devices like [NFC/RFID microchips](https://dangerousthings.com/product/next/), [flexible implants](https://dangerousthings.com/product/apex-flex/), [magnets](https://dangerousthings.com/product/xg3/), [LEDs](https://dangerousthings.com/product/xsiid/), and similar technologies.
+ An implant refers to embedded devices like [microchips](https://web.archive.org/web/20241001102740/https://dangerousthings.com/category/implants/x-series/), [flexible implants](https://web.archive.org/web/20241001004729/https://dangerousthings.com/category/implants/flex-series/), [magnets](https://web.archive.org/web/20241001054623/https://dangerousthings.com/category/implants/biomagnet-implants/), and similar technologies.
 
  **IMPLANT**: Inert material or object embedded within the body.
 
@@ -70,7 +70,7 @@ Do you feel like a cyborg? This question delves into personal identity and opini
 
 **CYBORG**: A person whose physiological abilities are extended beyond normal limitations by human-machine systems. A portmanteau of CYBERNETIC and ORGANISM.
 
-[COMMON CYBORG:](https://granta.com/common-cyborg/) The experiences of a woman who considers herself a cyborg due to her use of prosthetics. Explore the complexities of living with a technological limb, societal perceptions, and the exclusion of disabled perspectives in discussions on cyborg identities.
+[COMMON CYBORG:](https://web.archive.org/web/20241116081434/https://granta.com/common-cyborg/) The experiences of a woman who considers herself a cyborg due to her use of prosthetics. Explore the complexities of living with a technological limb, societal perceptions, and the exclusion of disabled perspectives in discussions on cyborg identities.
 
 [CYBORG MANIFESTO: SCIENCE, TECHNOLOGY, AND SOCIALIST-FEMINISM IN THE LATE TWENTIETH CENTURY:](https://doi.org/10.5749/minnesota/9780816650477.003.0001) 1980s American socialist feminism through the lens of C3I (command-control-communications-intelligence) systems, exploring the amalgamation of sciences and natural-social realms within this framework.
 
@@ -82,7 +82,7 @@ Do you feel like a cyborg? This question delves into personal identity and opini
 
 [CYBORG PEDAGOGY PERFORMING RESISTANCE IN THE DIGITAL AGE:](https://doi.org/10.2307/1321078) Posits the cyborg as a metaphor for critiquing the influence of information technology on posthuman identity and bodies, through the examination of performance artists like Stelarc and Orlan, introducing "cyborg pedagogies" as a means to explore digital culture's impact.
 
-[HEAVENLY BODIES: WHY IT MATTERS THAT CYBORGS HAVE ALWAYS BEEN ABOUT DISABILITY, MENTAL HEALTH, AND MARGINALIZATION:](https://afutureworththinkingabout.com/?p=5396) The importance of inclusivity, adaptability, and honoring lived experiences in shaping future understandings of the cyborg and human existence.
+[HEAVENLY BODIES: WHY IT MATTERS THAT CYBORGS HAVE ALWAYS BEEN ABOUT DISABILITY, MENTAL HEALTH, AND MARGINALIZATION:](https://web.archive.org/web/20240715150749/https://afutureworththinkingabout.com/?p=5396) The importance of inclusivity, adaptability, and honoring lived experiences in shaping future understandings of the cyborg and human existence.
 
 [I, CYBORG:](https://isbnsearch.org/isbn/0252072154) The journey of Kevin Warwick, a trailblazer in the field of cybernetics, who has taken extraordinary steps to become part human, part machine.
 
@@ -100,11 +100,19 @@ Do you feel like a cyborg? This question delves into personal identity and opini
 
 Implants are available in a wide range of forms, with the most common including:
 
-[Microchips](https://dangerousthings.com/category/implants/x-series/)
+[Microchips](https://web.archive.org/web/20241001102740/https://dangerousthings.com/category/implants/x-series/)
 
-[Flexible](https://dangerousthings.com/category/implants/flex-series/)
+[Flexible](https://web.archive.org/web/20241001004729/https://dangerousthings.com/category/implants/flex-series/)
 
-[Magnets](https://dangerousthings.com/category/implants/biomagnet-implants/)
+[Magnets](https://web.archive.org/web/20241001054623/https://dangerousthings.com/category/implants/biomagnet-implants/)
+
+Besides those three, there are numerous prototypes!
+
+[PegLeg](https://web.archive.org/web/20240828215846/http://pegleg.org/)
+
+[Circadia](https://web.archive.org/web/20240404204506/https://collection.powerhouse.com.au/object/562714)
+
+[HackJack with NeoSound](https://web.archive.org/web/20241126191152/https://www.hackster.io/news/introducing-the-hackjack-with-neosound-a-revolutionary-cyborg-device-by-hackster-io-d6dc73936547)
 
 </details>
 
@@ -144,7 +152,7 @@ NFC (Near Field Communication) and RFID (Radio-Frequency Identification) implant
 
 ### Payment
 
-Payment implants facilitate electronic transactions by storing payment information. They enable users to make purchases without traditional payment methods like credit cards or smartphones. Examples include the [Walletmor](https://cyborg.ksecsolutions.com/product/walletmor-installation-apex-needle/).
+Payment implants facilitate electronic transactions by storing payment information. They enable users to make purchases without traditional payment methods like credit cards or smartphones. Examples include the [Walletmor](https://web.archive.org/web/20230528032836/https://cyborg.ksecsolutions.com/product/walletmor-installation-apex-needle/).
 
 ### Illumination
 
@@ -170,7 +178,7 @@ The long answer is no because RFID/NFC with GPS tracking, is 'Active RFID locati
 
 </summary>
 
-If you suspect that you have been implanted against your will, reading the following forum thread is highly recommend: [So you think you've been implanted against your will](https://forum.dangerousthings.com/t/so-you-think-youve-been-implanted-against-your-will/64)
+If you suspect that you have been implanted against your will, reading the following forum thread is highly recommend: [So you think you've been implanted against your will](https://web.archive.org/web/20240228112814/https://forum.dangerousthings.com/t/so-you-think-youve-been-implanted-against-your-will/64)
 
 </details>
 
@@ -190,7 +198,7 @@ Implants are generally considered safe, comparable to other body modifications l
 
 </summary>
 
-The majority of implants lack FDA approval, but that doesn’t mean efforts aren’t underway to obtain it as is the case for the [VivoKey Spark 2](https://dangerousthings.com/product/vivokey-spark/).
+The majority of implants lack FDA approval, but that doesn’t mean efforts aren’t underway to obtain it as is the case for the [VivoKey Spark 2](https://web.archive.org/web/20240930205953/https://dangerousthings.com/product/vivokey-spark/).
 
 </details>
 
@@ -222,7 +230,7 @@ Infection, allergic reaction, or rejection are rare and typically the result of 
 
 Medical imaging is a non-issue except for implanted magnets. Dangerous Things provides an MRI compatibility guide for glass microchips, and a few individuals have undergone MRIs with magnets, although this isn't recommended.
 
-[MRI Compatibility Guide](https://forum.dangerousthings.com/uploads/default/original/1X/289af3580c98807bdd9de089a27d73f383ce7bce.pdf)
+[MRI Compatibility Guide](https://web.archive.org/web/20241118223021/https://forum.dangerousthings.com/uploads/default/original/1X/289af3580c98807bdd9de089a27d73f383ce7bce.pdf)
 
 </details>
 
@@ -329,17 +337,17 @@ Professional Installation: Recommended to ensure safety. Not all installers are 
 
 ## 9. Popular Vendors and Resources
 
-**[Dangerous Things](https://dangerousthings.com):** US-based retailer with a wide range of consumer implants and biohacking supplies.
+**[Dangerous Things](https://web.archive.org/web/20241120163553/https://dangerousthings.com/):** US-based retailer with a wide range of consumer implants and biohacking supplies.
 
-**[VivoKey](https://vivokey.com):** Secure, programmable cryptographic implants.
+**[VivoKey](https://web.archive.org/web/20240904235950/https://vivokey.com/):** Secure, programmable cryptographic implants.
 
-**[Symbiont Labs](https://www.facebook.com/symbiontlabs/):** Implant prototypes.
+**[Symbiont Labs](https://web.archive.org/web/20241126191828/https://symbiontlabs.io/):** Implant prototypes.
 
 **[KSEC Solutions](https://cyborg.ksecsolutions.com/):** UK implant retailer.
 
-**[I am Robot](https://chip-implants.com/):** German/EU implant retailer.
+**[I am Robot](https://web.archive.org/web/20241009212854/ttps://chip-implants.com/):** German/EU implant retailer.
 
-**[Digiwell](https://digiwell.com/):** EU/German implant retailer
+**[Digiwell](https://web.archive.org/web/20241125000516/https://digiwell.com/):** EU/German implant retailer
 
 </details>
 
@@ -459,7 +467,7 @@ Setup will largely depend on the type of implant technology and its intended use
 
 - Ferromagnetic metal objects (e.g., small pins, screws).
 
-- [Lodestone: Pico](https://dangerousthings.com/product/lodestone-pico/)
+- [Lodestone: Pico](https://github.com/AxelFougues/Lodestone-biomagnet-tools)
 
 ### Testing After Implantation:
 
@@ -481,9 +489,9 @@ Setup will largely depend on the type of implant technology and its intended use
 
 There are several methods for getting an implant installed, each varying in risk. Professional installers are the safest option, while DIY installation carries significant risks and is strongly discouraged.
 
-A professional installer can be located via the [Dangerous Things Professional Partner Map](https://dangerousthings.com/partners/). 
+A professional installer can be located via the [Dangerous Things Professional Partner Map](https://web.archive.org/web/20241001151315/https://dangerousthings.com/partners/). 
 
-You may find a willing installer by engaging with the [Dangerous Things Forum](https://forum.dangerousthings.com/), [Biohackers Digital Discord Server](https://discord.com/invite/qauh766), [Reddit](https://www.reddit.com/r/grinders/), Facebook groups, reaching out to local piercing studios, or by connecting with a consenting medical or veterinary professional. If you're consulting a professional for an implant installation, it’s highly recommended to review the following resource: https://forum.dangerousthings.com/t/how-to-approach-a-professional/29
+You may find a willing installer by engaging with the [Dangerous Things Forum](https://forum.dangerousthings.com/), [Biohackers Digital Discord Server](https://discord.com/invite/qauh766), [Reddit](https://www.reddit.com/r/grinders/), Facebook groups, reaching out to local piercing studios, or by connecting with a consenting medical or veterinary professional. If you're consulting a professional for an implant installation, it’s highly recommended to review the following resource: [How to Approach a Professional](https://web.archive.org/web/20240527181837/https://forum.dangerousthings.com/t/how-to-approach-a-professional/29)
 
 Although self-installation (DIY) is technically possible, it is strongly discouraged due to the significant risks involved. Any DIY installations are at your own risk. It's strongly advised to have medical training and contingency plans in case the installation fails or complications arise!
 
@@ -495,7 +503,7 @@ Although self-installation (DIY) is technically possible, it is strongly discour
 
 </summary>
 
-[Grindfest](https://augmentationlimitles.ipage.com/grindfest/) is an annual implant meetup held in the desert north of Los Angeles.
+[Grindfest](https://web.archive.org/web/20241118223021/https://augmentationlimitles.ipage.com/grindfest/) is an annual implant meetup held in the desert north of Los Angeles.
 
 </details>
 
@@ -507,7 +515,7 @@ Although self-installation (DIY) is technically possible, it is strongly discour
 
 [BIOHACKERS DIGITAL](https://discord.gg/implants)
 
-[DEF CON BIOHACK VILLAGE](https://www.villageb.io/)
+[DEF CON BIOHACK VILLAGE](https://web.archive.org/web/20241126192905/https://www.villageb.io/)
 
 [SYMBIONT LABS](https://discord.gg/xKyzAdmW)
 
