@@ -178,7 +178,7 @@ The long answer is no because RFID/NFC with GPS tracking, is 'Active RFID locati
 
 </summary>
 
-If you suspect that you have been implanted against your will, reading the following forum thread is highly recommend: [So you think you've been implanted against your will](https://web.archive.org/web/20240228112814/https://forum.dangerousthings.com/t/so-you-think-youve-been-implanted-against-your-will/64)
+If you suspect that you have been implanted against your will, reading the following forum thread is highly recommend: [So You Think You've Been Implanted Against Your Will](https://web.archive.org/web/20240228112814/https://forum.dangerousthings.com/t/so-you-think-youve-been-implanted-against-your-will/64)
 
 </details>
 
