@@ -1,3 +1,7 @@
+#ARCHIVE NOTE
+
+The latest version is now available at: [Biohackers Digital - KnowledgeBase - Frequently Asked Questions](https://github.com/BiohackersDigital/KnowledgeBase/blob/main/FREQUENTLY%20ASKED%20QUESTIONS.md). This version has been archived.
+
 <div align="center"> 
 
 # AUGMENTER’S BIOHACKING FAQ
